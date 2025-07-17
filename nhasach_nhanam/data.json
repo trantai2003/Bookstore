@@ -1,0 +1,507 @@
+{
+  "users": [
+    {
+      "id": "user001",
+      "email": "nguyen.van.a@email.com",
+      "username": "nguyenvana",
+      "password": "12345678",
+      "profile": {
+        "first_name": "Nguyễn",
+        "last_name": "Văn A",
+        "phone": "0987654321",
+        "date_of_birth": "1990-05-15",
+        "gender": "male",
+        "avatar_url": "https://example.com/avatars/user001.jpg"
+      },
+      "addresses": [
+        {
+          "id": "addr001",
+          "type": "home",
+          "recipient_name": "Nguyễn Văn A",
+          "street": "123 Đường Láng",
+          "ward": "Phường Láng Thượng",
+          "district": "Quận Đống Đa",
+          "city": "Hà Nội",
+          "postal_code": "100000",
+          "phone": "0987654321",
+          "is_default": true
+        }
+      ],
+      "preferences": {
+        "favorite_genres": ["fiction", "mystery", "biography"],
+        "language": "vi",
+        "currency": "VND",
+        "newsletter_subscription": true
+      },
+      "created_at": "2024-01-15T10:30:00Z",
+      "updated_at": "2024-12-01T14:20:00Z",
+      "last_login": "2024-12-15T09:15:00Z",
+      "is_active": true,
+      "role": "customer"
+    }
+  ],
+
+  "books": [
+    {
+      "id": "book001",
+      "isbn": "978-0-123456-78-9",
+      "title": "Đắc Nhân Tâm",
+      "original_title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "translator": "Nguyễn Văn Phước",
+      "publisher": "NXB Tổng Hợp TPHCM",
+      "publication_date": "2020-03-15",
+      "language": "vi",
+      "pages": 320,
+      "format": "paperback",
+      "dimensions": {
+        "width": 13,
+        "height": 20,
+        "thickness": 2
+      },
+      "weight": 350,
+      "description": "Cuốn sách kinh điển về nghệ thuật giao tiếp và ứng xử...",
+      "cover_image": "https://example.com/covers/book001.jpg",
+      "images": [
+        "https://example.com/books/book001/image1.jpg",
+        "https://example.com/books/book001/image2.jpg"
+      ],
+      "categories": ["self-help", "communication", "psychology"],
+      "tags": ["bestseller", "classic", "personal-development"],
+      "price": {
+        "original": 150000,
+        "current": 120000,
+        "currency": "VND",
+        "discount_percent": 20
+      },
+      "stock": {
+        "quantity": 50,
+        "status": "in_stock",
+        "warehouse_location": "A1-B2-C3"
+      },
+      "ratings": {
+        "average": 4.5,
+        "count": 234,
+        "distribution": {
+          "5": 145,
+          "4": 67,
+          "3": 18,
+          "2": 3,
+          "1": 1
+        }
+      },
+      "sales_stats": {
+        "total_sold": 1250,
+        "monthly_sold": 45,
+        "views": 5670
+      },
+      "seo": {
+        "slug": "dac-nhan-tam-dale-carnegie",
+        "meta_title": "Đắc Nhân Tâm - Dale Carnegie | Sách Self-help Hay Nhất",
+        "meta_description": "Mua sách Đắc Nhân Tâm của Dale Carnegie với giá tốt nhất..."
+      },
+      "created_at": "2024-01-10T08:00:00Z",
+      "updated_at": "2024-12-01T16:30:00Z",
+      "is_active": true,
+      "is_featured": true
+    },
+    {
+      "id": "book002",
+      "isbn": "978-0-987654-32-1",
+      "title": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "author": "Nguyễn Nhật Ánh",
+      "publisher": "NXB Trẻ",
+      "publication_date": "2019-08-20",
+      "language": "vi",
+      "pages": 280,
+      "format": "paperback",
+      "dimensions": {
+        "width": 13,
+        "height": 20,
+        "thickness": 1.8
+      },
+      "weight": 300,
+      "description": "Tiểu thuyết về tuổi thơ đầy cảm xúc và hoài niệm...",
+      "cover_image": "https://example.com/covers/book002.jpg",
+      "images": ["https://example.com/books/book002/image1.jpg"],
+      "categories": ["fiction", "vietnamese-literature", "coming-of-age"],
+      "tags": ["vietnamese-author", "childhood", "nostalgic"],
+      "price": {
+        "original": 95000,
+        "current": 95000,
+        "currency": "VND",
+        "discount_percent": 0
+      },
+      "stock": {
+        "quantity": 30,
+        "status": "in_stock",
+        "warehouse_location": "B2-C3-D4"
+      },
+      "ratings": {
+        "average": 4.8,
+        "count": 456,
+        "distribution": {
+          "5": 365,
+          "4": 78,
+          "3": 11,
+          "2": 2,
+          "1": 0
+        }
+      },
+      "sales_stats": {
+        "total_sold": 2100,
+        "monthly_sold": 65,
+        "views": 8920
+      },
+      "seo": {
+        "slug": "toi-thay-hoa-vang-tren-co-xanh",
+        "meta_title": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh - Nguyễn Nhật Ánh",
+        "meta_description": "Tiểu thuyết hay nhất của Nguyễn Nhật Ánh..."
+      },
+      "created_at": "2024-02-05T10:15:00Z",
+      "updated_at": "2024-11-20T11:45:00Z",
+      "is_active": true,
+      "is_featured": false
+    }
+  ],
+
+  "categories": [
+    {
+      "id": "cat001",
+      "name": "Văn học",
+      "slug": "van-hoc",
+      "description": "Sách văn học trong nước và quốc tế",
+      "parent_id": null,
+      "image": "https://example.com/categories/van-hoc.jpg",
+      "subcategories": ["fiction", "poetry", "drama", "vietnamese-literature"],
+      "is_active": true,
+      "sort_order": 1
+    },
+    {
+      "id": "cat002",
+      "name": "Tiểu thuyết",
+      "slug": "tieu-thuyet",
+      "description": "Các tác phẩm tiểu thuyết hay",
+      "parent_id": "cat001",
+      "image": "https://example.com/categories/tieu-thuyet.jpg",
+      "subcategories": [],
+      "is_active": true,
+      "sort_order": 1
+    },
+    {
+      "id": "cat003",
+      "name": "Kỹ năng sống",
+      "slug": "ky-nang-song",
+      "description": "Sách phát triển bản thân và kỹ năng",
+      "parent_id": null,
+      "image": "https://example.com/categories/ky-nang-song.jpg",
+      "subcategories": ["self-help", "communication", "leadership"],
+      "is_active": true,
+      "sort_order": 2
+    }
+  ],
+
+  "shopping_cart": [
+    {
+      "id": "cart001",
+      "user_id": "user001",
+      "items": [
+        {
+          "book_id": "book001",
+          "quantity": 2,
+          "price": 120000,
+          "added_at": "2024-12-15T10:30:00Z"
+        },
+        {
+          "book_id": "book002",
+          "quantity": 1,
+          "price": 95000,
+          "added_at": "2024-12-15T11:15:00Z"
+        }
+      ],
+      "total_items": 3,
+      "subtotal": 335000,
+      "created_at": "2024-12-15T10:30:00Z",
+      "updated_at": "2024-12-15T11:15:00Z"
+    }
+  ],
+
+  "orders": [
+    {
+      "id": "order001",
+      "order_number": "ORD-2024-001234",
+      "user_id": "user001",
+      "status": "delivered",
+      "payment_status": "paid",
+      "items": [
+        {
+          "book_id": "book001",
+          "title": "Đắc Nhân Tâm",
+          "quantity": 1,
+          "price": 120000,
+          "subtotal": 120000
+        }
+      ],
+      "pricing": {
+        "subtotal": 120000,
+        "shipping_fee": 30000,
+        "tax": 0,
+        "discount": 0,
+        "total": 150000,
+        "currency": "VND"
+      },
+      "shipping_address": {
+        "recipient_name": "Nguyễn Văn A",
+        "street": "123 Đường Láng",
+        "ward": "Phường Láng Thượng",
+        "district": "Quận Đống Đa",
+        "city": "Hà Nội",
+        "postal_code": "100000",
+        "phone": "0987654321"
+      },
+      "shipping_method": {
+        "id": "ship001",
+        "name": "Giao hàng tiêu chuẩn",
+        "estimated_days": "2-3",
+        "tracking_number": "VN123456789"
+      },
+      "payment_method": {
+        "type": "credit_card",
+        "provider": "visa",
+        "last_four": "1234",
+        "transaction_id": "txn_abc123xyz"
+      },
+      "timeline": [
+        {
+          "status": "pending",
+          "timestamp": "2024-12-01T10:00:00Z",
+          "note": "Đơn hàng được tạo"
+        },
+        {
+          "status": "confirmed",
+          "timestamp": "2024-12-01T10:30:00Z",
+          "note": "Đơn hàng đã được xác nhận"
+        },
+        {
+          "status": "processing",
+          "timestamp": "2024-12-01T14:00:00Z",
+          "note": "Đang chuẩn bị hàng"
+        },
+        {
+          "status": "shipped",
+          "timestamp": "2024-12-02T08:00:00Z",
+          "note": "Hàng đã được giao cho đơn vị vận chuyển"
+        },
+        {
+          "status": "delivered",
+          "timestamp": "2024-12-03T15:30:00Z",
+          "note": "Giao hàng thành công"
+        }
+      ],
+      "created_at": "2024-12-01T10:00:00Z",
+      "updated_at": "2024-12-03T15:30:00Z"
+    }
+  ],
+
+  "reviews": [
+    {
+      "id": "review001",
+      "user_id": "user001",
+      "book_id": "book001",
+      "order_id": "order001",
+      "rating": 5,
+      "title": "Cuốn sách tuyệt vời",
+      "content": "Đây là một cuốn sách rất hay về kỹ năng giao tiếp. Tôi đã học được rất nhiều điều bổ ích từ cuốn sách này.",
+      "helpful_count": 15,
+      "verified_purchase": true,
+      "images": ["https://example.com/reviews/review001/image1.jpg"],
+      "created_at": "2024-12-05T16:20:00Z",
+      "updated_at": "2024-12-05T16:20:00Z",
+      "is_approved": true
+    }
+  ],
+
+  "search_filters": {
+    "categories": [
+      {
+        "id": "cat001",
+        "name": "Văn học",
+        "count": 1250
+      },
+      {
+        "id": "cat003",
+        "name": "Kỹ năng sống",
+        "count": 850
+      }
+    ],
+    "price_ranges": [
+      {
+        "min": 0,
+        "max": 100000,
+        "count": 450
+      },
+      {
+        "min": 100000,
+        "max": 200000,
+        "count": 1200
+      },
+      {
+        "min": 200000,
+        "max": 500000,
+        "count": 680
+      }
+    ],
+    "publishers": [
+      {
+        "name": "NXB Trẻ",
+        "count": 320
+      },
+      {
+        "name": "NXB Tổng Hợp TPHCM",
+        "count": 280
+      }
+    ],
+    "authors": [
+      {
+        "name": "Nguyễn Nhật Ánh",
+        "count": 45
+      },
+      {
+        "name": "Dale Carnegie",
+        "count": 12
+      }
+    ],
+    "languages": [
+      {
+        "code": "vi",
+        "name": "Tiếng Việt",
+        "count": 1800
+      },
+      {
+        "code": "en",
+        "name": "Tiếng Anh",
+        "count": 650
+      }
+    ],
+    "ratings": [
+      {
+        "min": 4,
+        "max": 5,
+        "count": 1450
+      },
+      {
+        "min": 3,
+        "max": 4,
+        "count": 850
+      }
+    ],
+    "availability": [
+      {
+        "status": "in_stock",
+        "name": "Còn hàng",
+        "count": 2100
+      },
+      {
+        "status": "out_of_stock",
+        "name": "Hết hàng",
+        "count": 150
+      }
+    ]
+  },
+
+  "search_results": {
+    "query": "đắc nhân tâm",
+    "total_results": 1,
+    "page": 1,
+    "per_page": 20,
+    "total_pages": 1,
+    "filters_applied": {
+      "category": null,
+      "price_min": null,
+      "price_max": null,
+      "publisher": null,
+      "author": null,
+      "language": null,
+      "rating_min": null,
+      "availability": null
+    },
+    "sort_by": "relevance",
+    "sort_order": "desc",
+    "results": [
+      {
+        "book_id": "book001",
+        "relevance_score": 0.95,
+        "match_type": "title_exact"
+      }
+    ],
+    "suggestions": ["tâm lý học", "kỹ năng giao tiếp", "phát triển bản thân"],
+    "search_time": "0.045s"
+  },
+
+  "wishlists": [
+    {
+      "id": "wishlist001",
+      "user_id": "user001",
+      "name": "Sách yêu thích",
+      "description": "Danh sách sách muốn mua",
+      "books": [
+        {
+          "book_id": "book002",
+          "added_at": "2024-12-10T14:20:00Z",
+          "priority": "high"
+        }
+      ],
+      "is_public": false,
+      "created_at": "2024-12-01T09:00:00Z",
+      "updated_at": "2024-12-10T14:20:00Z"
+    }
+  ],
+
+  "notifications": [
+    {
+      "id": "notif001",
+      "user_id": "user001",
+      "type": "order_status",
+      "title": "Đơn hàng đã được giao",
+      "message": "Đơn hàng #ORD-2024-001234 đã được giao thành công",
+      "data": {
+        "order_id": "order001"
+      },
+      "is_read": false,
+      "created_at": "2024-12-03T15:30:00Z"
+    },
+    {
+      "id": "notif002",
+      "user_id": "user001",
+      "type": "promotion",
+      "title": "Khuyến mãi đặc biệt",
+      "message": "Giảm 20% cho tất cả sách văn học",
+      "data": {
+        "promotion_code": "VANHOC20",
+        "discount_percent": 20
+      },
+      "is_read": true,
+      "created_at": "2024-12-01T08:00:00Z"
+    }
+  ],
+
+  "promotions": [
+    {
+      "id": "promo001",
+      "code": "VANHOC20",
+      "title": "Giảm 20% sách văn học",
+      "description": "Áp dụng cho tất cả sách thuộc danh mục văn học",
+      "type": "percentage",
+      "value": 20,
+      "min_order_amount": 200000,
+      "max_discount_amount": 100000,
+      "usage_limit": 1000,
+      "used_count": 245,
+      "applicable_categories": ["cat001"],
+      "applicable_books": [],
+      "start_date": "2024-12-01T00:00:00Z",
+      "end_date": "2024-12-31T23:59:59Z",
+      "is_active": true
+    }
+  ]
+}
