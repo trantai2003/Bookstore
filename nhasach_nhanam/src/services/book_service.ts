@@ -6,9 +6,11 @@ export function getAllBook() {
 
 export function getById(id: string) {
   const books = getAllBook()
-  books.forEach((book) => {
-    if (book.id === id) return book
-  })
+  for (const book of books) {
+    if (book.id === id) {
+      return book as Book
+    }
+  }
   return null
 }
 

@@ -781,7 +781,7 @@
                     <li class="menu-item-has-children">
                       <a href="javascript:void(0);">Authors</a>
                       <ul class="sub-menu">
-                        <li><a href="authors.html">Authors</a></li>
+                        <li><a href="authors  ">Authors</a></li>
                         <li><a href="authordetail.html">Author Detail</a></li>
                       </ul>
                     </li>
@@ -802,7 +802,7 @@
                         <li class="menu-item-has-children">
                           <a href="aboutus.html">Products</a>
                           <ul class="sub-menu">
-                            <li><a href="products.html">Products</a></li>
+                            <li><a href="book-list">Products</a></li>
                             <li><a href="productdetail.html">Product Detail</a></li>
                           </ul>
                         </li>

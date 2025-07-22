@@ -1,5 +1,4 @@
 <template>
-
     <div id="tg-wrapper" class="tg-wrapper tg-haslayout">
         <!--************************************
 				Header Start
@@ -51,7 +50,7 @@
                                 </ul>
                             </div>
                             <div class="tg-userlogin">
-                                <figure><a href="javascript:void(0);"><img src="../../public/images/users/img-01.jpg"
+                                <figure><a href="javascript:void(0);"><img src="images/users/img-01.jpg"
                                             alt="image description"></a></figure>
                                 <span>Hi, John</span>
                             </div>
@@ -63,7 +62,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                            <strong class="tg-logo"><a href="index-2.html"><img src="../../public/images/logo.png"
+                            <strong class="tg-logo"><a href="index-2.html"><img src="images/logo.png"
                                         alt="company name here"></a></strong>
                             <div class="tg-wishlistandcart">
                                 <div class="dropdown tg-themedropdown tg-wishlistdropdown">
@@ -90,8 +89,7 @@
                                         <div class="tg-minicartbody">
                                             <div class="tg-minicarproduct">
                                                 <figure>
-                                                    <img src="../../public/images/products/img-01.jpg"
-                                                        alt="image description">
+                                                    <img src="images/products/img-01.jpg" alt="image description">
 
                                                 </figure>
                                                 <div class="tg-minicarproductdata">
@@ -102,8 +100,7 @@
                                             </div>
                                             <div class="tg-minicarproduct">
                                                 <figure>
-                                                    <img src="../../public/images/products/img-02.jpg"
-                                                        alt="image description">
+                                                    <img src="images/products/img-02.jpg" alt="image description">
 
                                                 </figure>
                                                 <div class="tg-minicarproductdata">
@@ -113,8 +110,7 @@
                                             </div>
                                             <div class="tg-minicarproduct">
                                                 <figure>
-                                                    <img src="../../public/images/products/img-03.jpg"
-                                                        alt="image description">
+                                                    <img src="images/products/img-03.jpg" alt="image description">
 
                                                 </figure>
                                                 <div class="tg-minicarproductdata">
@@ -270,7 +266,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -342,7 +338,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -414,7 +410,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -486,7 +482,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -558,7 +554,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -630,7 +626,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -702,7 +698,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -774,7 +770,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -846,7 +842,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -918,7 +914,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -993,8 +989,7 @@
 				Inner Banner Start
 		*************************************-->
         <div class="tg-innerbanner tg-haslayout tg-parallax tg-bginnerbanner" data-z-index="-100"
-            data-appear-top-offset="600" data-parallax="scroll"
-            data-image-src="../../public/images/parallax/bgparallax-07.jpg">
+            data-appear-top-offset="600" data-parallax="scroll" data-image-src="images/parallax/bgparallax-07.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -1037,8 +1032,7 @@
                                                 <div class="row">
                                                     <div
                                                         class="col-xs-12 col-sm-12 col-md-4 col-lg-4 hidden-sm hidden-xs">
-                                                        <figure><img src="../../public/images/img-04.png"
-                                                                alt="image description">
+                                                        <figure><img src="images/img-04.png" alt="image description">
                                                         </figure>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
@@ -1097,19 +1091,451 @@
                                                     </fieldset>
                                                 </form>
                                             </div>
-
-                                            <div v-for="book in books" class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+                                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="tg-postbook">
                                                     <figure class="tg-featureimg">
                                                         <div class="tg-bookimg">
-                                                            <div class="tg-frontcover"><img :src="book.cover_image"
+                                                            <div class="tg-frontcover"><img
+                                                                    src="images/books/img-01.jpg"
                                                                     alt="image description"></div>
-                                                            <div class="tg-backcover"><img :src="book.cover_image"
+                                                            <div class="tg-backcover"><img src="images/books/img-01.jpg"
                                                                     alt="image description"></div>
                                                         </div>
-                                                        <a class="tg-btnaddtowishlist" :href="`book-detail/${book.id}`">
+                                                        <a class="tg-btnaddtowishlist" href="javascript:void(0);">
                                                             <i class="icon-heart"></i>
-                                                            <span>View Details</span>
+                                                            <span>add to wishlist</span>
+                                                        </a>
+                                                    </figure>
+                                                    <div class="tg-postbookcontent">
+                                                        <ul class="tg-bookscategories">
+                                                            <li><a href="javascript:void(0);">Art &amp; Photography</a>
+                                                            </li>
+                                                        </ul>
+                                                        <div class="tg-themetagbox"><span
+                                                                class="tg-themetag">sale</span></div>
+                                                        <div class="tg-booktitle">
+                                                            <h3><a href="javascript:void(0);">Help Me Find My
+                                                                    Stomach</a></h3>
+                                                        </div>
+                                                        <span class="tg-bookwriter">By: <a
+                                                                href="javascript:void(0);">Angela Gunning</a></span>
+                                                        <span class="tg-stars"><span></span></span>
+                                                        <span class="tg-bookprice">
+                                                            <ins>$25.18</ins>
+                                                            <del>$27.20</del>
+                                                        </span>
+                                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                                            <i class="fa fa-shopping-basket"></i>
+                                                            <em>Add To Basket</em>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="tg-postbook">
+                                                    <figure class="tg-featureimg">
+                                                        <div class="tg-bookimg">
+                                                            <div class="tg-frontcover"><img
+                                                                    src="images/books/img-02.jpg"
+                                                                    alt="image description"></div>
+                                                            <div class="tg-backcover"><img src="images/books/img-02.jpg"
+                                                                    alt="image description"></div>
+                                                        </div>
+                                                        <a class="tg-btnaddtowishlist" href="javascript:void(0);">
+                                                            <i class="icon-heart"></i>
+                                                            <span>add to wishlist</span>
+                                                        </a>
+                                                    </figure>
+                                                    <div class="tg-postbookcontent">
+                                                        <ul class="tg-bookscategories">
+                                                            <li><a href="javascript:void(0);">Children’s Book</a></li>
+                                                        </ul>
+                                                        <div class="tg-themetagbox"><span
+                                                                class="tg-themetag">sale</span></div>
+                                                        <div class="tg-booktitle">
+                                                            <h3><a href="javascript:void(0);">Help Me Find My
+                                                                    Stomach</a></h3>
+                                                        </div>
+                                                        <span class="tg-bookwriter">By: <a
+                                                                href="javascript:void(0);">Angela Gunning</a></span>
+                                                        <span class="tg-stars"><span></span></span>
+                                                        <span class="tg-bookprice">
+                                                            <ins>$25.18</ins>
+                                                            <del>$27.20</del>
+                                                        </span>
+                                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                                            <i class="fa fa-shopping-basket"></i>
+                                                            <em>Add To Basket</em>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="tg-postbook">
+                                                    <figure class="tg-featureimg">
+                                                        <div class="tg-bookimg">
+                                                            <div class="tg-frontcover"><img
+                                                                    src="images/books/img-03.jpg"
+                                                                    alt="image description"></div>
+                                                            <div class="tg-backcover"><img src="images/books/img-03.jpg"
+                                                                    alt="image description"></div>
+                                                        </div>
+                                                        <a class="tg-btnaddtowishlist" href="javascript:void(0);">
+                                                            <i class="icon-heart"></i>
+                                                            <span>add to wishlist</span>
+                                                        </a>
+                                                    </figure>
+                                                    <div class="tg-postbookcontent">
+                                                        <ul class="tg-bookscategories">
+                                                            <li><a href="javascript:void(0);">Comic</a></li>
+                                                            <li><a href="javascript:void(0);">Adventure</a></li>
+                                                        </ul>
+                                                        <div class="tg-themetagbox"><span
+                                                                class="tg-themetag">sale</span></div>
+                                                        <div class="tg-booktitle">
+                                                            <h3><a href="javascript:void(0);">Help Me Find My
+                                                                    Stomach</a></h3>
+                                                        </div>
+                                                        <span class="tg-bookwriter">By: <a
+                                                                href="javascript:void(0);">Angela Gunning</a></span>
+                                                        <span class="tg-stars"><span></span></span>
+                                                        <span class="tg-bookprice">
+                                                            <ins>$25.18</ins>
+                                                        </span>
+                                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                                            <i class="fa fa-shopping-basket"></i>
+                                                            <em>Add To Basket</em>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="tg-postbook">
+                                                    <figure class="tg-featureimg">
+                                                        <div class="tg-bookimg">
+                                                            <div class="tg-frontcover"><img
+                                                                    src="images/books/img-04.jpg"
+                                                                    alt="image description"></div>
+                                                            <div class="tg-backcover"><img src="images/books/img-04.jpg"
+                                                                    alt="image description"></div>
+                                                        </div>
+                                                        <a class="tg-btnaddtowishlist" href="javascript:void(0);">
+                                                            <i class="icon-heart"></i>
+                                                            <span>add to wishlist</span>
+                                                        </a>
+                                                    </figure>
+                                                    <div class="tg-postbookcontent">
+                                                        <ul class="tg-bookscategories">
+                                                            <li><a href="javascript:void(0);">Fantacy &amp; Horor</a>
+                                                            </li>
+                                                        </ul>
+                                                        <div class="tg-themetagbox"><span
+                                                                class="tg-themetag">sale</span></div>
+                                                        <div class="tg-booktitle">
+                                                            <h3><a href="javascript:void(0);">Help Me Find My
+                                                                    Stomach</a></h3>
+                                                        </div>
+                                                        <span class="tg-bookwriter">By: <a
+                                                                href="javascript:void(0);">Angela Gunning</a></span>
+                                                        <span class="tg-stars"><span></span></span>
+                                                        <span class="tg-bookprice">
+                                                            <ins>$25.18</ins>
+                                                        </span>
+                                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                                            <i class="fa fa-shopping-basket"></i>
+                                                            <em>Add To Basket</em>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="tg-postbook">
+                                                    <figure class="tg-featureimg">
+                                                        <div class="tg-bookimg">
+                                                            <div class="tg-frontcover"><img
+                                                                    src="images/books/img-05.jpg"
+                                                                    alt="image description"></div>
+                                                            <div class="tg-backcover"><img src="images/books/img-05.jpg"
+                                                                    alt="image description"></div>
+                                                        </div>
+                                                        <a class="tg-btnaddtowishlist" href="javascript:void(0);">
+                                                            <i class="icon-heart"></i>
+                                                            <span>add to wishlist</span>
+                                                        </a>
+                                                    </figure>
+                                                    <div class="tg-postbookcontent">
+                                                        <ul class="tg-bookscategories">
+                                                            <li><a href="javascript:void(0);">Children’s Book</a></li>
+                                                        </ul>
+                                                        <div class="tg-themetagbox"><span
+                                                                class="tg-themetag">sale</span></div>
+                                                        <div class="tg-booktitle">
+                                                            <h3><a href="javascript:void(0);">Help Me Find My
+                                                                    Stomach</a></h3>
+                                                        </div>
+                                                        <span class="tg-bookwriter">By: <a
+                                                                href="javascript:void(0);">Angela Gunning</a></span>
+                                                        <span class="tg-stars"><span></span></span>
+                                                        <span class="tg-bookprice">
+                                                            <ins>$25.18</ins>
+                                                            <del>$27.20</del>
+                                                        </span>
+                                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                                            <i class="fa fa-shopping-basket"></i>
+                                                            <em>Add To Basket</em>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="tg-postbook">
+                                                    <figure class="tg-featureimg">
+                                                        <div class="tg-bookimg">
+                                                            <div class="tg-frontcover"><img
+                                                                    src="images/books/img-06.jpg"
+                                                                    alt="image description"></div>
+                                                            <div class="tg-backcover"><img src="images/books/img-06.jpg"
+                                                                    alt="image description"></div>
+                                                        </div>
+                                                        <a class="tg-btnaddtowishlist" href="javascript:void(0);">
+                                                            <i class="icon-heart"></i>
+                                                            <span>add to wishlist</span>
+                                                        </a>
+                                                    </figure>
+                                                    <div class="tg-postbookcontent">
+                                                        <ul class="tg-bookscategories">
+                                                            <li><a href="javascript:void(0);">Comic</a></li>
+                                                            <li><a href="javascript:void(0);">Adventure</a></li>
+                                                        </ul>
+                                                        <div class="tg-themetagbox"><span
+                                                                class="tg-themetag">sale</span></div>
+                                                        <div class="tg-booktitle">
+                                                            <h3><a href="javascript:void(0);">Help Me Find My
+                                                                    Stomach</a></h3>
+                                                        </div>
+                                                        <span class="tg-bookwriter">By: <a
+                                                                href="javascript:void(0);">Angela Gunning</a></span>
+                                                        <span class="tg-stars"><span></span></span>
+                                                        <span class="tg-bookprice">
+                                                            <ins>$25.18</ins>
+                                                        </span>
+                                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                                            <i class="fa fa-shopping-basket"></i>
+                                                            <em>Add To Basket</em>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="tg-postbook">
+                                                    <figure class="tg-featureimg">
+                                                        <div class="tg-bookimg">
+                                                            <div class="tg-frontcover"><img
+                                                                    src="images/books/img-07.jpg"
+                                                                    alt="image description"></div>
+                                                            <div class="tg-backcover"><img src="images/books/img-07.jpg"
+                                                                    alt="image description"></div>
+                                                        </div>
+                                                        <a class="tg-btnaddtowishlist" href="javascript:void(0);">
+                                                            <i class="icon-heart"></i>
+                                                            <span>add to wishlist</span>
+                                                        </a>
+                                                    </figure>
+                                                    <div class="tg-postbookcontent">
+                                                        <ul class="tg-bookscategories">
+                                                            <li><a href="javascript:void(0);">Adventure</a></li>
+                                                            <li><a href="javascript:void(0);">Fiction</a></li>
+                                                        </ul>
+                                                        <div class="tg-themetagbox"><span
+                                                                class="tg-themetag">sale</span></div>
+                                                        <div class="tg-booktitle">
+                                                            <h3><a href="javascript:void(0);">Help Me Find My
+                                                                    Stomach</a></h3>
+                                                        </div>
+                                                        <span class="tg-bookwriter">By: <a
+                                                                href="javascript:void(0);">Angela Gunning</a></span>
+                                                        <span class="tg-stars"><span></span></span>
+                                                        <span class="tg-bookprice">
+                                                            <ins>$25.18</ins>
+                                                            <del>$27.20</del>
+                                                        </span>
+                                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                                            <i class="fa fa-shopping-basket"></i>
+                                                            <em>Add To Basket</em>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="tg-postbook">
+                                                    <figure class="tg-featureimg">
+                                                        <div class="tg-bookimg">
+                                                            <div class="tg-frontcover"><img
+                                                                    src="images/books/img-08.jpg"
+                                                                    alt="image description"></div>
+                                                            <div class="tg-backcover"><img src="images/books/img-08.jpg"
+                                                                    alt="image description"></div>
+                                                        </div>
+                                                        <a class="tg-btnaddtowishlist" href="javascript:void(0);">
+                                                            <i class="icon-heart"></i>
+                                                            <span>add to wishlist</span>
+                                                        </a>
+                                                    </figure>
+                                                    <div class="tg-postbookcontent">
+                                                        <ul class="tg-bookscategories">
+                                                            <li><a href="javascript:void(0);">Fantacy &amp; Horor</a>
+                                                            </li>
+                                                        </ul>
+                                                        <div class="tg-themetagbox"><span
+                                                                class="tg-themetag">sale</span></div>
+                                                        <div class="tg-booktitle">
+                                                            <h3><a href="javascript:void(0);">Help Me Find My
+                                                                    Stomach</a></h3>
+                                                        </div>
+                                                        <span class="tg-bookwriter">By: <a
+                                                                href="javascript:void(0);">Angela Gunning</a></span>
+                                                        <span class="tg-stars"><span></span></span>
+                                                        <span class="tg-bookprice">
+                                                            <ins>$25.18</ins>
+                                                        </span>
+                                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                                            <i class="fa fa-shopping-basket"></i>
+                                                            <em>Add To Basket</em>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="tg-postbook">
+                                                    <figure class="tg-featureimg">
+                                                        <div class="tg-bookimg">
+                                                            <div class="tg-frontcover"><img
+                                                                    src="images/books/img-09.jpg"
+                                                                    alt="image description"></div>
+                                                            <div class="tg-backcover"><img src="images/books/img-09.jpg"
+                                                                    alt="image description"></div>
+                                                        </div>
+                                                        <a class="tg-btnaddtowishlist" href="javascript:void(0);">
+                                                            <i class="icon-heart"></i>
+                                                            <span>add to wishlist</span>
+                                                        </a>
+                                                    </figure>
+                                                    <div class="tg-postbookcontent">
+                                                        <ul class="tg-bookscategories">
+                                                            <li><a href="javascript:void(0);">Children’s Book</a></li>
+                                                        </ul>
+                                                        <div class="tg-themetagbox"><span
+                                                                class="tg-themetag">sale</span></div>
+                                                        <div class="tg-booktitle">
+                                                            <h3><a href="javascript:void(0);">Help Me Find My
+                                                                    Stomach</a></h3>
+                                                        </div>
+                                                        <span class="tg-bookwriter">By: <a
+                                                                href="javascript:void(0);">Angela Gunning</a></span>
+                                                        <span class="tg-stars"><span></span></span>
+                                                        <span class="tg-bookprice">
+                                                            <ins>$25.18</ins>
+                                                            <del>$27.20</del>
+                                                        </span>
+                                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                                            <i class="fa fa-shopping-basket"></i>
+                                                            <em>Add To Basket</em>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="tg-postbook">
+                                                    <figure class="tg-featureimg">
+                                                        <div class="tg-bookimg">
+                                                            <div class="tg-frontcover"><img
+                                                                    src="images/books/img-10.jpg"
+                                                                    alt="image description"></div>
+                                                            <div class="tg-backcover"><img src="images/books/img-10.jpg"
+                                                                    alt="image description"></div>
+                                                        </div>
+                                                        <a class="tg-btnaddtowishlist" href="javascript:void(0);">
+                                                            <i class="icon-heart"></i>
+                                                            <span>add to wishlist</span>
+                                                        </a>
+                                                    </figure>
+                                                    <div class="tg-postbookcontent">
+                                                        <ul class="tg-bookscategories">
+                                                            <li><a href="javascript:void(0);">Comic</a></li>
+                                                            <li><a href="javascript:void(0);">Adventure</a></li>
+                                                        </ul>
+                                                        <div class="tg-themetagbox"><span
+                                                                class="tg-themetag">sale</span></div>
+                                                        <div class="tg-booktitle">
+                                                            <h3><a href="javascript:void(0);">Help Me Find My
+                                                                    Stomach</a></h3>
+                                                        </div>
+                                                        <span class="tg-bookwriter">By: <a
+                                                                href="javascript:void(0);">Angela Gunning</a></span>
+                                                        <span class="tg-stars"><span></span></span>
+                                                        <span class="tg-bookprice">
+                                                            <ins>$25.18</ins>
+                                                        </span>
+                                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                                            <i class="fa fa-shopping-basket"></i>
+                                                            <em>Add To Basket</em>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="tg-postbook">
+                                                    <figure class="tg-featureimg">
+                                                        <div class="tg-bookimg">
+                                                            <div class="tg-frontcover"><img
+                                                                    src="images/books/img-11.jpg"
+                                                                    alt="image description"></div>
+                                                            <div class="tg-backcover"><img src="images/books/img-11.jpg"
+                                                                    alt="image description"></div>
+                                                        </div>
+                                                        <a class="tg-btnaddtowishlist" href="javascript:void(0);">
+                                                            <i class="icon-heart"></i>
+                                                            <span>add to wishlist</span>
+                                                        </a>
+                                                    </figure>
+                                                    <div class="tg-postbookcontent">
+                                                        <ul class="tg-bookscategories">
+                                                            <li><a href="javascript:void(0);">Adventure</a></li>
+                                                            <li><a href="javascript:void(0);">Fiction</a></li>
+                                                        </ul>
+                                                        <div class="tg-themetagbox"><span
+                                                                class="tg-themetag">sale</span></div>
+                                                        <div class="tg-booktitle">
+                                                            <h3><a href="javascript:void(0);">Help Me Find My
+                                                                    Stomach</a></h3>
+                                                        </div>
+                                                        <span class="tg-bookwriter">By: <a
+                                                                href="javascript:void(0);">Angela Gunning</a></span>
+                                                        <span class="tg-stars"><span></span></span>
+                                                        <span class="tg-bookprice">
+                                                            <ins>$25.18</ins>
+                                                            <del>$27.20</del>
+                                                        </span>
+                                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                                            <i class="fa fa-shopping-basket"></i>
+                                                            <em>Add To Basket</em>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="tg-postbook">
+                                                    <figure class="tg-featureimg">
+                                                        <div class="tg-bookimg">
+                                                            <div class="tg-frontcover"><img
+                                                                    src="images/books/img-12.jpg"
+                                                                    alt="image description"></div>
+                                                            <div class="tg-backcover"><img src="images/books/img-12.jpg"
+                                                                    alt="image description"></div>
+                                                        </div>
+                                                        <a class="tg-btnaddtowishlist" href="javascript:void(0);">
+                                                            <i class="icon-heart"></i>
+                                                            <span>add to wishlist</span>
                                                         </a>
                                                     </figure>
                                                     <div class="tg-postbookcontent">
@@ -1120,8 +1546,8 @@
                                                         <div class="tg-themetagbox"><span
                                                                 class="tg-themetag">sale</span></div>
                                                         <div class="tg-booktitle">
-                                                            <h3 style="overflow: hidden; height: 38px;"><a
-                                                                    href="javascript:void(0);">{{ book.title }}</a></h3>
+                                                            <h3><a href="javascript:void(0);">Help Me Find My
+                                                                    Stomach</a></h3>
                                                         </div>
                                                         <span class="tg-bookwriter">By: <a
                                                                 href="javascript:void(0);">Angela Gunning</a></span>
@@ -1191,7 +1617,7 @@
                                                 <li>
                                                     <article class="tg-post">
                                                         <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/products/img-04.jpg"
+                                                                    src="images/products/img-04.jpg"
                                                                     alt="image description"></a></figure>
                                                         <div class="tg-postcontent">
                                                             <div class="tg-posttitle">
@@ -1207,7 +1633,7 @@
                                                 <li>
                                                     <article class="tg-post">
                                                         <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/products/img-05.jpg"
+                                                                    src="images/products/img-05.jpg"
                                                                     alt="image description"></a></figure>
                                                         <div class="tg-postcontent">
                                                             <div class="tg-posttitle">
@@ -1223,7 +1649,7 @@
                                                 <li>
                                                     <article class="tg-post">
                                                         <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/products/img-06.jpg"
+                                                                    src="images/products/img-06.jpg"
                                                                     alt="image description"></a></figure>
                                                         <div class="tg-postcontent">
                                                             <div class="tg-posttitle">
@@ -1239,7 +1665,7 @@
                                                 <li>
                                                     <article class="tg-post">
                                                         <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/products/img-07.jpg"
+                                                                    src="images/products/img-07.jpg"
                                                                     alt="image description"></a></figure>
                                                         <div class="tg-postcontent">
                                                             <div class="tg-posttitle">
@@ -1263,8 +1689,7 @@
                                             <ul>
                                                 <li>
                                                     <figure>
-                                                        <img src="../../public/images/instagram/img-01.jpg"
-                                                            alt="image description">
+                                                        <img src="images/instagram/img-01.jpg" alt="image description">
                                                         <figcaption><a href="javascript:void(0);"><i
                                                                     class="icon-heart"></i><em>50,134</em></a>
                                                         </figcaption>
@@ -1272,8 +1697,7 @@
                                                 </li>
                                                 <li>
                                                     <figure>
-                                                        <img src="../../public/images/instagram/img-02.jpg"
-                                                            alt="image description">
+                                                        <img src="images/instagram/img-02.jpg" alt="image description">
                                                         <figcaption><a href="javascript:void(0);"><i
                                                                     class="icon-heart"></i><em>50,134</em></a>
                                                         </figcaption>
@@ -1281,8 +1705,7 @@
                                                 </li>
                                                 <li>
                                                     <figure>
-                                                        <img src="../../public/images/instagram/img-03.jpg"
-                                                            alt="image description">
+                                                        <img src="images/instagram/img-03.jpg" alt="image description">
                                                         <figcaption><a href="javascript:void(0);"><i
                                                                     class="icon-heart"></i><em>50,134</em></a>
                                                         </figcaption>
@@ -1290,8 +1713,7 @@
                                                 </li>
                                                 <li>
                                                     <figure>
-                                                        <img src="../../public/images/instagram/img-04.jpg"
-                                                            alt="image description">
+                                                        <img src="images/instagram/img-04.jpg" alt="image description">
                                                         <figcaption><a href="javascript:void(0);"><i
                                                                     class="icon-heart"></i><em>50,134</em></a>
                                                         </figcaption>
@@ -1299,8 +1721,7 @@
                                                 </li>
                                                 <li>
                                                     <figure>
-                                                        <img src="../../public/images/instagram/img-05.jpg"
-                                                            alt="image description">
+                                                        <img src="images/instagram/img-05.jpg" alt="image description">
                                                         <figcaption><a href="javascript:void(0);"><i
                                                                     class="icon-heart"></i><em>50,134</em></a>
                                                         </figcaption>
@@ -1308,8 +1729,7 @@
                                                 </li>
                                                 <li>
                                                     <figure>
-                                                        <img src="../../public/images/instagram/img-06.jpg"
-                                                            alt="image description">
+                                                        <img src="images/instagram/img-06.jpg" alt="image description">
                                                         <figcaption><a href="javascript:void(0);"><i
                                                                     class="icon-heart"></i><em>50,134</em></a>
                                                         </figcaption>
@@ -1317,8 +1737,7 @@
                                                 </li>
                                                 <li>
                                                     <figure>
-                                                        <img src="../../public/images/instagram/img-07.jpg"
-                                                            alt="image description">
+                                                        <img src="images/instagram/img-07.jpg" alt="image description">
                                                         <figcaption><a href="javascript:void(0);"><i
                                                                     class="icon-heart"></i><em>50,134</em></a>
                                                         </figcaption>
@@ -1326,8 +1745,7 @@
                                                 </li>
                                                 <li>
                                                     <figure>
-                                                        <img src="../../public/images/instagram/img-08.jpg"
-                                                            alt="image description">
+                                                        <img src="images/instagram/img-08.jpg" alt="image description">
                                                         <figcaption><a href="javascript:void(0);"><i
                                                                     class="icon-heart"></i><em>50,134</em></a>
                                                         </figcaption>
@@ -1335,8 +1753,7 @@
                                                 </li>
                                                 <li>
                                                     <figure>
-                                                        <img src="../../public/images/instagram/img-09.jpg"
-                                                            alt="image description">
+                                                        <img src="images/instagram/img-09.jpg" alt="image description">
                                                         <figcaption><a href="javascript:void(0);"><i
                                                                     class="icon-heart"></i><em>50,134</em></a>
                                                         </figcaption>
@@ -1354,7 +1771,7 @@
                                                 <li>
                                                     <div class="tg-author">
                                                         <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/author/imag-03.jpg"
+                                                                    src="images/author/imag-03.jpg"
                                                                     alt="image description"></a></figure>
                                                         <div class="tg-authorcontent">
                                                             <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
@@ -1365,7 +1782,7 @@
                                                 <li>
                                                     <div class="tg-author">
                                                         <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/author/imag-04.jpg"
+                                                                    src="images/author/imag-04.jpg"
                                                                     alt="image description"></a></figure>
                                                         <div class="tg-authorcontent">
                                                             <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
@@ -1376,7 +1793,7 @@
                                                 <li>
                                                     <div class="tg-author">
                                                         <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/author/imag-05.jpg"
+                                                                    src="images/author/imag-05.jpg"
                                                                     alt="image description"></a></figure>
                                                         <div class="tg-authorcontent">
                                                             <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
@@ -1387,7 +1804,7 @@
                                                 <li>
                                                     <div class="tg-author">
                                                         <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/author/imag-06.jpg"
+                                                                    src="images/author/imag-06.jpg"
                                                                     alt="image description"></a></figure>
                                                         <div class="tg-authorcontent">
                                                             <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
@@ -1453,8 +1870,7 @@
                         <div class="tg-threecolumns">
                             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                                 <div class="tg-footercol">
-                                    <strong class="tg-logo"><a href="javascript:void(0);"><img
-                                                src="../../public/images/flogo.png"
+                                    <strong class="tg-logo"><a href="javascript:void(0);"><img src="images/flogo.png"
                                                 alt="image description"></a></strong>
                                     <ul class="tg-contactinfo">
                                         <li>
@@ -1530,8 +1946,7 @@
                                         <ul>
                                             <li>
                                                 <figure><a href="javascript:void(0);"><img
-                                                            src="../../public/images/author/imag-09.jpg"
-                                                            alt="image description"></a>
+                                                            src="images/author/imag-09.jpg" alt="image description"></a>
                                                 </figure>
                                                 <div class="tg-authornamebooks">
                                                     <h4><a href="javascript:void(0);">Jude Morphew</a></h4>
@@ -1540,8 +1955,7 @@
                                             </li>
                                             <li>
                                                 <figure><a href="javascript:void(0);"><img
-                                                            src="../../public/images/author/imag-10.jpg"
-                                                            alt="image description"></a>
+                                                            src="images/author/imag-10.jpg" alt="image description"></a>
                                                 </figure>
                                                 <div class="tg-authornamebooks">
                                                     <h4><a href="javascript:void(0);">Shaun Humes</a></h4>
@@ -1550,8 +1964,7 @@
                                             </li>
                                             <li>
                                                 <figure><a href="javascript:void(0);"><img
-                                                            src="../../public/images/author/imag-11.jpg"
-                                                            alt="image description"></a>
+                                                            src="images/author/imag-11.jpg" alt="image description"></a>
                                                 </figure>
                                                 <div class="tg-authornamebooks">
                                                     <h4><a href="javascript:void(0);">Kathrine Culbertson</a></h4>
@@ -1591,7 +2004,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                            <span class="tg-paymenttype"><img src="../../public/images/paymenticon.png"
+                            <span class="tg-paymenttype"><img src="images/paymenticon.png"
                                     alt="image description"></span>
                             <span class="tg-copyright">2017 All Rights Reserved By &copy; Book Library</span>
                         </div>
@@ -1606,30 +2019,11 @@
     <!--************************************
 			Wrapper End
 	*************************************-->
+
+
+
 </template>
 
 <script setup lang="ts">
-import book_service from '@/services/book_service';
-import { ref, onMounted } from 'vue';
-import type { Book } from '@/types';
 
-const books = ref(Array<Book>());
-onMounted(() => {
-    try {
-        books.value = book_service.getAllBook();
-    } catch (error) {
-        console.error('Failed to fetch books:', error);
-    }
-});
 </script>
-
-
-<style scoped>
-table {
-    width: 100%;
-    border-collapse: separate;
-    border: 1px solid #ddd;
-
-
-}
-</style>

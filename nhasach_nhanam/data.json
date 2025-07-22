@@ -43,161 +43,700 @@
 
   "books": [
     {
-      "id": "book001",
-      "isbn": "978-0-123456-78-9",
-      "title": "Đắc Nhân Tâm",
-      "original_title": "How to Win Friends and Influence People",
-      "author": "Dale Carnegie",
-      "translator": "Nguyễn Văn Phước",
-      "publisher": "NXB Tổng Hợp TPHCM",
-      "publication_date": "2020-03-15",
-      "language": "vi",
-      "pages": 320,
+      "id": "book003",
+      "isbn": "978-1-234567-89-0",
+      "title": "Goonight Mooon",
+      "author": "Bruce Barnbaum",
+      "publisher": "Creative Arts Publishing",
+      "publication_date": "2023-04-12",
+      "language": "en",
+      "pages": 156,
       "format": "paperback",
       "dimensions": {
-        "width": 13,
-        "height": 20,
-        "thickness": 2
+        "width": 15,
+        "height": 23,
+        "thickness": 1.2
       },
-      "weight": 350,
-      "description": "Cuốn sách kinh điển về nghệ thuật giao tiếp và ứng xử...",
-      "cover_image": "https://example.com/covers/book001.jpg",
-      "images": [
-        "https://example.com/books/book001/image1.jpg",
-        "https://example.com/books/book001/image2.jpg"
-      ],
-      "categories": ["self-help", "communication", "psychology"],
-      "tags": ["bestseller", "classic", "personal-development"],
+      "weight": 280,
+      "description": "A captivating art and photography book that explores the intimate relationship between self-discovery and visual expression...",
+      "cover_image": "../../public/images/books/img-01.jpg",
+      "images": ["../../public/images/books/img-01.jpg"],
+      "categories": ["art", "photography"],
+      "tags": ["sale", "visual-arts", "self-discovery"],
       "price": {
-        "original": 150000,
-        "current": 120000,
-        "currency": "VND",
-        "discount_percent": 20
+        "original": 27.2,
+        "current": 25.18,
+        "currency": "USD",
+        "discount_percent": 7.4
       },
       "stock": {
-        "quantity": 50,
+        "quantity": 25,
         "status": "in_stock",
-        "warehouse_location": "A1-B2-C3"
+        "warehouse_location": "C1-D2-E3"
       },
       "ratings": {
-        "average": 4.5,
-        "count": 234,
+        "average": 0,
+        "count": 0,
         "distribution": {
-          "5": 145,
-          "4": 67,
-          "3": 18,
-          "2": 3,
-          "1": 1
+          "5": 0,
+          "4": 0,
+          "3": 0,
+          "2": 0,
+          "1": 0
         }
       },
       "sales_stats": {
-        "total_sold": 1250,
-        "monthly_sold": 45,
-        "views": 5670
+        "total_sold": 0,
+        "monthly_sold": 0,
+        "views": 234
       },
       "seo": {
-        "slug": "dac-nhan-tam-dale-carnegie",
-        "meta_title": "Đắc Nhân Tâm - Dale Carnegie | Sách Self-help Hay Nhất",
-        "meta_description": "Mua sách Đắc Nhân Tâm của Dale Carnegie với giá tốt nhất..."
+        "slug": "art-of-photography-personal-approach",
+        "meta_title": "The Art of Photography - Personal Approach by Bruce Barnbaum",
+        "meta_description": "Explore artistic expression through photography with Bruce Barnbaum's comprehensive guide..."
       },
-      "created_at": "2024-01-10T08:00:00Z",
-      "updated_at": "2024-12-01T16:30:00Z",
+      "created_at": "2024-03-15T09:30:00Z",
+      "updated_at": "2024-12-15T14:20:00Z",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "id": "book004",
+      "isbn": "978-1-234567-90-6",
+      "title": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "publisher": "Young Readers Press",
+      "publication_date": "2023-06-08",
+      "language": "en",
+      "pages": 64,
+      "format": "hardcover",
+      "dimensions": {
+        "width": 20,
+        "height": 26,
+        "thickness": 1.0
+      },
+      "weight": 320,
+      "description": "A delightful children's book about a young character's whimsical journey to understand their emotions and imagination...",
+      "cover_image": "../../public/images/books/img-02.jpg",
+      "images": ["../../public/images/books/img-02.jpg"],
+      "categories": ["children", "picture-book", "imagination"],
+      "tags": ["sale", "kids", "creativity", "emotions"],
+      "price": {
+        "original": 27.2,
+        "current": 25.18,
+        "currency": "USD",
+        "discount_percent": 7.4
+      },
+      "stock": {
+        "quantity": 40,
+        "status": "in_stock",
+        "warehouse_location": "D2-E3-F4"
+      },
+      "ratings": {
+        "average": 0,
+        "count": 0,
+        "distribution": {
+          "5": 0,
+          "4": 0,
+          "3": 0,
+          "2": 0,
+          "1": 0
+        }
+      },
+      "sales_stats": {
+        "total_sold": 0,
+        "monthly_sold": 0,
+        "views": 456
+      },
+      "seo": {
+        "slug": "where-wild-things-are-sendak",
+        "meta_title": "Where the Wild Things Are - Children's Book by Maurice Sendak",
+        "meta_description": "A wonderful children's story about imagination and emotional discovery..."
+      },
+      "created_at": "2024-03-20T11:15:00Z",
+      "updated_at": "2024-12-10T16:45:00Z",
       "is_active": true,
       "is_featured": true
     },
     {
-      "id": "book002",
-      "isbn": "978-0-987654-32-1",
-      "title": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
-      "author": "Nguyễn Nhật Ánh",
-      "publisher": "NXB Trẻ",
-      "publication_date": "2019-08-20",
-      "language": "vi",
-      "pages": 280,
+      "id": "book005",
+      "isbn": "978-1-234567-91-3",
+      "title": "Pet Sematary",
+      "author": "Stan Lee",
+      "publisher": "Adventure Comics Ltd",
+      "publication_date": "2023-07-22",
+      "language": "en",
+      "pages": 128,
+      "format": "paperback",
+      "dimensions": {
+        "width": 17,
+        "height": 26,
+        "thickness": 0.8
+      },
+      "weight": 180,
+      "description": "An action-packed comic adventure where our hero embarks on thrilling adventures through New York City...",
+      "cover_image": "../../public/images/books/img-03.jpg",
+      "images": ["../../public/images/books/img-03.jpg"],
+      "categories": ["comic", "adventure", "graphic-novel"],
+      "tags": ["sale", "superhero", "marvel", "illustrated"],
+      "price": {
+        "original": 25.18,
+        "current": 25.18,
+        "currency": "USD",
+        "discount_percent": 0
+      },
+      "stock": {
+        "quantity": 35,
+        "status": "in_stock",
+        "warehouse_location": "E3-F4-G5"
+      },
+      "ratings": {
+        "average": 0,
+        "count": 0,
+        "distribution": {
+          "5": 0,
+          "4": 0,
+          "3": 0,
+          "2": 0,
+          "1": 0
+        }
+      },
+      "sales_stats": {
+        "total_sold": 0,
+        "monthly_sold": 0,
+        "views": 789
+      },
+      "seo": {
+        "slug": "amazing-spider-man-ultimate-collection",
+        "meta_title": "The Amazing Spider-Man Ultimate Collection by Stan Lee",
+        "meta_description": "Join Spider-Man in this thrilling comic adventure collection..."
+      },
+      "created_at": "2024-04-02T13:45:00Z",
+      "updated_at": "2024-12-05T10:30:00Z",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "id": "book006",
+      "isbn": "978-1-234567-92-0",
+      "title": "The Haunting of Hill House",
+      "author": "Shirley Jackson",
+      "publisher": "Dark Tales Publishing",
+      "publication_date": "2023-10-31",
+      "language": "en",
+      "pages": 245,
       "format": "paperback",
       "dimensions": {
         "width": 13,
         "height": 20,
         "thickness": 1.8
       },
-      "weight": 300,
-      "description": "Tiểu thuyết về tuổi thơ đầy cảm xúc và hoài niệm...",
-      "cover_image": "https://example.com/covers/book002.jpg",
-      "images": ["https://example.com/books/book002/image1.jpg"],
-      "categories": ["fiction", "vietnamese-literature", "coming-of-age"],
-      "tags": ["vietnamese-author", "childhood", "nostalgic"],
+      "weight": 340,
+      "description": "A haunting psychological horror tale that delves into the depths of fear and the supernatural...",
+      "cover_image": "../../public/images/books/img-04.jpg",
+      "images": ["../../public/images/books/img-04.jpg"],
+      "categories": ["horror", "psychological-thriller", "classic"],
+      "tags": ["sale", "classic-horror", "psychological", "mature"],
       "price": {
-        "original": 95000,
-        "current": 95000,
-        "currency": "VND",
+        "original": 25.18,
+        "current": 25.18,
+        "currency": "USD",
+        "discount_percent": 0
+      },
+      "stock": {
+        "quantity": 20,
+        "status": "in_stock",
+        "warehouse_location": "F4-G5-H6"
+      },
+      "ratings": {
+        "average": 0,
+        "count": 0,
+        "distribution": {
+          "5": 0,
+          "4": 0,
+          "3": 0,
+          "2": 0,
+          "1": 0
+        }
+      },
+      "sales_stats": {
+        "total_sold": 0,
+        "monthly_sold": 0,
+        "views": 567
+      },
+      "seo": {
+        "slug": "haunting-hill-house-jackson",
+        "meta_title": "The Haunting of Hill House by Shirley Jackson",
+        "meta_description": "A chilling psychological horror novel that explores the boundaries of fear..."
+      },
+      "created_at": "2024-05-18T15:20:00Z",
+      "updated_at": "2024-11-28T12:15:00Z",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "id": "book007",
+      "isbn": "978-1-234567-93-7",
+      "title": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "publisher": "Young Readers Press",
+      "publication_date": "2023-09-15",
+      "language": "en",
+      "pages": 72,
+      "format": "hardcover",
+      "dimensions": {
+        "width": 20,
+        "height": 26,
+        "thickness": 1.1
+      },
+      "weight": 340,
+      "description": "A beloved children's classic about transformation and growth, following a caterpillar's journey...",
+      "cover_image": "../../public/images/books/img-05.jpg",
+      "images": ["../../public/images/books/img-05.jpg"],
+      "categories": ["children", "picture-book", "classic"],
+      "tags": ["sale", "classic", "kids", "educational"],
+      "price": {
+        "original": 27.2,
+        "current": 25.18,
+        "currency": "USD",
+        "discount_percent": 7.4
+      },
+      "stock": {
+        "quantity": 45,
+        "status": "in_stock",
+        "warehouse_location": "G5-H6-I7"
+      },
+      "ratings": {
+        "average": 0,
+        "count": 0,
+        "distribution": {
+          "5": 0,
+          "4": 0,
+          "3": 0,
+          "2": 0,
+          "1": 0
+        }
+      },
+      "sales_stats": {
+        "total_sold": 0,
+        "monthly_sold": 0,
+        "views": 345
+      },
+      "seo": {
+        "slug": "very-hungry-caterpillar-carle",
+        "meta_title": "The Very Hungry Caterpillar by Eric Carle",
+        "meta_description": "The beloved children's classic about transformation and growth..."
+      },
+      "created_at": "2024-06-10T08:45:00Z",
+      "updated_at": "2024-12-12T14:30:00Z",
+      "is_active": true,
+      "is_featured": true
+    },
+    {
+      "id": "book008",
+      "isbn": "978-1-234567-94-4",
+      "title": "Batman: Year One",
+      "author": "Frank Miller",
+      "publisher": "Adventure Comics Ltd",
+      "publication_date": "2024-01-10",
+      "language": "en",
+      "pages": 140,
+      "format": "paperback",
+      "dimensions": {
+        "width": 17,
+        "height": 26,
+        "thickness": 0.9
+      },
+      "weight": 190,
+      "description": "The definitive origin story of Batman, featuring the Dark Knight's first year of crime fighting...",
+      "cover_image": "../../public/images/books/img-06.jpg",
+      "images": ["../../public/images/books/img-06.jpg"],
+      "categories": ["comic", "superhero", "graphic-novel"],
+      "tags": ["sale", "batman", "origin-story", "illustrated"],
+      "price": {
+        "original": 25.18,
+        "current": 25.18,
+        "currency": "USD",
         "discount_percent": 0
       },
       "stock": {
         "quantity": 30,
         "status": "in_stock",
-        "warehouse_location": "B2-C3-D4"
+        "warehouse_location": "H6-I7-J8"
       },
       "ratings": {
-        "average": 4.8,
-        "count": 456,
+        "average": 0,
+        "count": 0,
         "distribution": {
-          "5": 365,
-          "4": 78,
-          "3": 11,
-          "2": 2,
+          "5": 0,
+          "4": 0,
+          "3": 0,
+          "2": 0,
           "1": 0
         }
       },
       "sales_stats": {
-        "total_sold": 2100,
-        "monthly_sold": 65,
-        "views": 8920
+        "total_sold": 0,
+        "monthly_sold": 0,
+        "views": 123
       },
       "seo": {
-        "slug": "toi-thay-hoa-vang-tren-co-xanh",
-        "meta_title": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh - Nguyễn Nhật Ánh",
-        "meta_description": "Tiểu thuyết hay nhất của Nguyễn Nhật Ánh..."
+        "slug": "batman-year-one-miller",
+        "meta_title": "Batman: Year One by Frank Miller",
+        "meta_description": "The definitive Batman origin story by legendary writer Frank Miller..."
       },
-      "created_at": "2024-02-05T10:15:00Z",
-      "updated_at": "2024-11-20T11:45:00Z",
+      "created_at": "2024-07-25T12:00:00Z",
+      "updated_at": "2024-12-08T16:20:00Z",
       "is_active": true,
       "is_featured": false
-    }
-  ],
-
-  "categories": [
-    {
-      "id": "cat001",
-      "name": "Văn học",
-      "slug": "van-hoc",
-      "description": "Sách văn học trong nước và quốc tế",
-      "parent_id": null,
-      "image": "https://example.com/categories/van-hoc.jpg",
-      "subcategories": ["fiction", "poetry", "drama", "vietnamese-literature"],
-      "is_active": true,
-      "sort_order": 1
     },
     {
-      "id": "cat002",
-      "name": "Tiểu thuyết",
-      "slug": "tieu-thuyet",
-      "description": "Các tác phẩm tiểu thuyết hay",
-      "parent_id": "cat001",
-      "image": "https://example.com/categories/tieu-thuyet.jpg",
-      "subcategories": [],
+      "id": "book009",
+      "isbn": "978-1-234567-95-1",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publisher": "Epic Fiction House",
+      "publication_date": "2024-02-28",
+      "language": "en",
+      "pages": 312,
+      "format": "paperback",
+      "dimensions": {
+        "width": 13,
+        "height": 20,
+        "thickness": 2.2
+      },
+      "weight": 420,
+      "description": "A thrilling fantasy adventure that takes readers on Bilbo Baggins' unexpected journey to the Lonely Mountain...",
+      "cover_image": "../../public/images/books/img-07.jpg",
+      "images": ["../../public/images/books/img-07.jpg"],
+      "categories": ["fantasy", "adventure", "classic"],
+      "tags": ["sale", "tolkien", "middle-earth", "bestseller"],
+      "price": {
+        "original": 27.2,
+        "current": 25.18,
+        "currency": "USD",
+        "discount_percent": 7.4
+      },
+      "stock": {
+        "quantity": 55,
+        "status": "in_stock",
+        "warehouse_location": "I7-J8-K9"
+      },
+      "ratings": {
+        "average": 0,
+        "count": 0,
+        "distribution": {
+          "5": 0,
+          "4": 0,
+          "3": 0,
+          "2": 0,
+          "1": 0
+        }
+      },
+      "sales_stats": {
+        "total_sold": 0,
+        "monthly_sold": 0,
+        "views": 678
+      },
+      "seo": {
+        "slug": "hobbit-tolkien",
+        "meta_title": "The Hobbit by J.R.R. Tolkien",
+        "meta_description": "The beloved fantasy adventure that started the Middle-earth saga..."
+      },
+      "created_at": "2024-08-15T10:30:00Z",
+      "updated_at": "2024-12-18T09:15:00Z",
       "is_active": true,
-      "sort_order": 1
+      "is_featured": true
     },
     {
-      "id": "cat003",
-      "name": "Kỹ năng sống",
-      "slug": "ky-nang-song",
-      "description": "Sách phát triển bản thân và kỹ năng",
-      "parent_id": null,
-      "image": "https://example.com/categories/ky-nang-song.jpg",
-      "subcategories": ["self-help", "communication", "leadership"],
+      "id": "book010",
+      "isbn": "978-1-234567-96-8",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "publisher": "Dark Tales Publishing",
+      "publication_date": "2024-03-15",
+      "language": "en",
+      "pages": 278,
+      "format": "paperback",
+      "dimensions": {
+        "width": 13,
+        "height": 20,
+        "thickness": 2.0
+      },
+      "weight": 380,
+      "description": "The classic gothic horror novel that defined the vampire genre, featuring Count Dracula's reign of terror...",
+      "cover_image": "../../public/images/books/img-08.jpg",
+      "images": ["../../public/images/books/img-08.jpg"],
+      "categories": ["horror", "gothic", "classic"],
+      "tags": ["sale", "vampire", "gothic-horror", "classic"],
+      "price": {
+        "original": 25.18,
+        "current": 25.18,
+        "currency": "USD",
+        "discount_percent": 0
+      },
+      "stock": {
+        "quantity": 18,
+        "status": "in_stock",
+        "warehouse_location": "J8-K9-L10"
+      },
+      "ratings": {
+        "average": 0,
+        "count": 0,
+        "distribution": {
+          "5": 0,
+          "4": 0,
+          "3": 0,
+          "2": 0,
+          "1": 0
+        }
+      },
+      "sales_stats": {
+        "total_sold": 0,
+        "monthly_sold": 0,
+        "views": 234
+      },
+      "seo": {
+        "slug": "dracula-stoker",
+        "meta_title": "Dracula by Bram Stoker",
+        "meta_description": "The definitive vampire novel that created the gothic horror genre..."
+      },
+      "created_at": "2024-09-05T14:45:00Z",
+      "updated_at": "2024-12-14T11:30:00Z",
       "is_active": true,
-      "sort_order": 2
+      "is_featured": false
+    },
+    {
+      "id": "book011",
+      "isbn": "978-1-234567-97-5",
+      "title": "Charlotte's Web",
+      "author": "E.B. White",
+      "publisher": "Young Readers Press",
+      "publication_date": "2024-04-20",
+      "language": "en",
+      "pages": 68,
+      "format": "hardcover",
+      "dimensions": {
+        "width": 20,
+        "height": 26,
+        "thickness": 1.0
+      },
+      "weight": 330,
+      "description": "The timeless story of friendship between a pig named Wilbur and a spider named Charlotte...",
+      "cover_image": "../../public/images/books/img-09.jpg",
+      "images": ["../../public/images/books/img-09.jpg"],
+      "categories": ["children", "classic", "friendship"],
+      "tags": ["sale", "friendship", "classic", "life-lessons"],
+      "price": {
+        "original": 27.2,
+        "current": 25.18,
+        "currency": "USD",
+        "discount_percent": 7.4
+      },
+      "stock": {
+        "quantity": 50,
+        "status": "in_stock",
+        "warehouse_location": "K9-L10-M11"
+      },
+      "ratings": {
+        "average": 0,
+        "count": 0,
+        "distribution": {
+          "5": 0,
+          "4": 0,
+          "3": 0,
+          "2": 0,
+          "1": 0
+        }
+      },
+      "sales_stats": {
+        "total_sold": 0,
+        "monthly_sold": 0,
+        "views": 456
+      },
+      "seo": {
+        "slug": "charlottes-web-white",
+        "meta_title": "Charlotte's Web by E.B. White",
+        "meta_description": "The beloved story of friendship and sacrifice that has touched generations..."
+      },
+      "created_at": "2024-10-12T16:20:00Z",
+      "updated_at": "2024-12-16T13:45:00Z",
+      "is_active": true,
+      "is_featured": true
+    },
+    {
+      "id": "book012",
+      "isbn": "978-1-234567-98-2",
+      "title": "Watchmen",
+      "author": "Alan Moore",
+      "publisher": "Adventure Comics Ltd",
+      "publication_date": "2024-05-18",
+      "language": "en",
+      "pages": 135,
+      "format": "paperback",
+      "dimensions": {
+        "width": 17,
+        "height": 26,
+        "thickness": 0.85
+      },
+      "weight": 185,
+      "description": "A groundbreaking graphic novel that deconstructs the superhero genre with complex characters and moral ambiguity...",
+      "cover_image": "../../public/images/books/img-10.jpg",
+      "images": ["../../public/images/books/img-10.jpg"],
+      "categories": ["comic", "graphic-novel", "mature"],
+      "tags": ["sale", "mature", "complex", "illustrated"],
+      "price": {
+        "original": 25.18,
+        "current": 25.18,
+        "currency": "USD",
+        "discount_percent": 0
+      },
+      "stock": {
+        "quantity": 28,
+        "status": "in_stock",
+        "warehouse_location": "L10-M11-N12"
+      },
+      "ratings": {
+        "average": 0,
+        "count": 0,
+        "distribution": {
+          "5": 0,
+          "4": 0,
+          "3": 0,
+          "2": 0,
+          "1": 0
+        }
+      },
+      "sales_stats": {
+        "total_sold": 0,
+        "monthly_sold": 0,
+        "views": 345
+      },
+      "seo": {
+        "slug": "watchmen-moore",
+        "meta_title": "Watchmen by Alan Moore",
+        "meta_description": "The groundbreaking graphic novel that redefined the superhero genre..."
+      },
+      "created_at": "2024-11-08T11:15:00Z",
+      "updated_at": "2024-12-19T15:30:00Z",
+      "is_active": true,
+      "is_featured": false
+    },
+    {
+      "id": "book013",
+      "isbn": "978-1-234567-99-9",
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "publisher": "Epic Fiction House",
+      "publication_date": "2024-06-25",
+      "language": "en",
+      "pages": 298,
+      "format": "paperback",
+      "dimensions": {
+        "width": 13,
+        "height": 20,
+        "thickness": 2.1
+      },
+      "weight": 405,
+      "description": "The beginning of the epic fantasy trilogy that follows Frodo's quest to destroy the One Ring...",
+      "cover_image": "../../public/images/books/img-11.jpg",
+      "images": ["../../public/images/books/img-11.jpg"],
+      "categories": ["fantasy", "adventure", "epic"],
+      "tags": ["sale", "tolkien", "middle-earth", "bestseller"],
+      "price": {
+        "original": 27.2,
+        "current": 25.18,
+        "currency": "USD",
+        "discount_percent": 7.4
+      },
+      "stock": {
+        "quantity": 42,
+        "status": "in_stock",
+        "warehouse_location": "M11-N12-O13"
+      },
+      "ratings": {
+        "average": 0,
+        "count": 0,
+        "distribution": {
+          "5": 0,
+          "4": 0,
+          "3": 0,
+          "2": 0,
+          "1": 0
+        }
+      },
+      "sales_stats": {
+        "total_sold": 0,
+        "monthly_sold": 0,
+        "views": 567
+      },
+      "seo": {
+        "slug": "lord-rings-fellowship-tolkien",
+        "meta_title": "The Lord of the Rings: Fellowship of the Ring by J.R.R. Tolkien",
+        "meta_description": "The beginning of the epic fantasy trilogy that defined the genre..."
+      },
+      "created_at": "2024-11-22T13:30:00Z",
+      "updated_at": "2024-12-20T17:15:00Z",
+      "is_active": true,
+      "is_featured": true
+    },
+    {
+      "id": "book014",
+      "isbn": "978-1-234568-00-2",
+      "title": "The Cat in the Hat",
+      "author": "Dr. Seuss",
+      "publisher": "Fun Adventures Inc",
+      "publication_date": "2024-07-30",
+      "language": "en",
+      "pages": 156,
+      "format": "paperback",
+      "dimensions": {
+        "width": 15,
+        "height": 22,
+        "thickness": 1.3
+      },
+      "weight": 220,
+      "description": "A fun-filled children's classic that combines humor, rhyme, and valuable life lessons for young readers...",
+      "cover_image": "../../public/images/books/img-12.jpg",
+      "images": ["../../public/images/books/img-12.jpg"],
+      "categories": ["children", "rhyme", "humor"],
+      "tags": ["sale", "dr-seuss", "family-friendly", "entertainment"],
+      "price": {
+        "original": 25.18,
+        "current": 25.18,
+        "currency": "USD",
+        "discount_percent": 0
+      },
+      "stock": {
+        "quantity": 38,
+        "status": "in_stock",
+        "warehouse_location": "N12-O13-P14"
+      },
+      "ratings": {
+        "average": 0,
+        "count": 0,
+        "distribution": {
+          "5": 0,
+          "4": 0,
+          "3": 0,
+          "2": 0,
+          "1": 0
+        }
+      },
+      "sales_stats": {
+        "total_sold": 0,
+        "monthly_sold": 0,
+        "views": 289
+      },
+      "seo": {
+        "slug": "cat-in-hat-seuss",
+        "meta_title": "The Cat in the Hat by Dr. Seuss",
+        "meta_description": "The beloved Dr. Seuss classic that has entertained children for generations..."
+      },
+      "created_at": "2024-12-01T09:45:00Z",
+      "updated_at": "2024-12-21T12:00:00Z",
+      "is_active": true,
+      "is_featured": false
     }
   ],
 

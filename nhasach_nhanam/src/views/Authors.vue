@@ -1,5 +1,4 @@
 <template>
-
     <div id="tg-wrapper" class="tg-wrapper tg-haslayout">
         <!--************************************
 				Header Start
@@ -51,7 +50,7 @@
                                 </ul>
                             </div>
                             <div class="tg-userlogin">
-                                <figure><a href="javascript:void(0);"><img src="../../public/images/users/img-01.jpg"
+                                <figure><a href="javascript:void(0);"><img src="/images/users/img-01.jpg"
                                             alt="image description"></a></figure>
                                 <span>Hi, John</span>
                             </div>
@@ -63,7 +62,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                            <strong class="tg-logo"><a href="index-2.html"><img src="../../public/images/logo.png"
+                            <strong class="tg-logo"><a href="index-2.html"><img src="/images/logo.png"
                                         alt="company name here"></a></strong>
                             <div class="tg-wishlistandcart">
                                 <div class="dropdown tg-themedropdown tg-wishlistdropdown">
@@ -90,8 +89,7 @@
                                         <div class="tg-minicartbody">
                                             <div class="tg-minicarproduct">
                                                 <figure>
-                                                    <img src="../../public/images/products/img-01.jpg"
-                                                        alt="image description">
+                                                    <img src="/images/products/img-01.jpg" alt="image description">
 
                                                 </figure>
                                                 <div class="tg-minicarproductdata">
@@ -102,8 +100,7 @@
                                             </div>
                                             <div class="tg-minicarproduct">
                                                 <figure>
-                                                    <img src="../../public/images/products/img-02.jpg"
-                                                        alt="image description">
+                                                    <img src="/images/products/img-02.jpg" alt="image description">
 
                                                 </figure>
                                                 <div class="tg-minicarproductdata">
@@ -113,8 +110,7 @@
                                             </div>
                                             <div class="tg-minicarproduct">
                                                 <figure>
-                                                    <img src="../../public/images/products/img-03.jpg"
-                                                        alt="image description">
+                                                    <img src="/images/products/img-03.jpg" alt="image description">
 
                                                 </figure>
                                                 <div class="tg-minicarproductdata">
@@ -270,7 +266,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="/images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -342,7 +338,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="/images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -414,7 +410,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="/images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -486,7 +482,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="/images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -558,7 +554,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="/images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -630,7 +626,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="/images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -702,7 +698,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="/images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -774,7 +770,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="/images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -846,7 +842,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="/images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -918,7 +914,7 @@
                                                         </ul>
                                                         <ul>
                                                             <li>
-                                                                <figure><img src="../../public/images/img-01.png"
+                                                                <figure><img src="/images/img-01.png"
                                                                         alt="image description"></figure>
                                                                 <div class="tg-textbox">
                                                                     <h3>More Than<span>12,0657,53</span>Books Collection
@@ -944,10 +940,10 @@
                                                 <li><a href="indexv3.html">Home V three</a></li>
                                             </ul>
                                         </li>
-                                        <li class="menu-item-has-children">
+                                        <li class="menu-item-has-children current-menu-item">
                                             <a href="javascript:void(0);">Authors</a>
                                             <ul class="sub-menu">
-                                                <li><a href="authors.html">Authors</a></li>
+                                                <li class="current-menu-item"><a href="authors.html">Authors</a></li>
                                                 <li><a href="authordetail.html">Author Detail</a></li>
                                             </ul>
                                         </li>
@@ -962,14 +958,13 @@
                                             </ul>
                                         </li>
                                         <li><a href="contactus.html">Contact</a></li>
-                                        <li class="menu-item-has-children current-menu-item">
+                                        <li class="menu-item-has-children">
                                             <a href="javascript:void(0);"><i class="icon-menu"></i></a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item-has-children current-menu-item">
-                                                    <a href="javascript:void(0);">Products</a>
+                                                <li class="menu-item-has-children">
+                                                    <a href="aboutus.html">Products</a>
                                                     <ul class="sub-menu">
-                                                        <li class="current-menu-item"><a
-                                                                href="products.html">Products</a></li>
+                                                        <li><a href="products.html">Products</a></li>
                                                         <li><a href="productdetail.html">Product Detail</a></li>
                                                     </ul>
                                                 </li>
@@ -993,16 +988,15 @@
 				Inner Banner Start
 		*************************************-->
         <div class="tg-innerbanner tg-haslayout tg-parallax tg-bginnerbanner" data-z-index="-100"
-            data-appear-top-offset="600" data-parallax="scroll"
-            data-image-src="../../public/images/parallax/bgparallax-07.jpg">
+            data-appear-top-offset="600" data-parallax="scroll" data-image-src="/images/parallax/bgparallax-07.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                         <div class="tg-innerbannercontent">
-                            <h1>All Products</h1>
+                            <h1>Authors</h1>
                             <ol class="tg-breadcrumb">
                                 <li><a href="javascript:void(0);">home</a></li>
-                                <li class="tg-active">Products</li>
+                                <li class="tg-active">Authors</li>
                             </ol>
                         </div>
                     </div>
@@ -1017,395 +1011,573 @@
 		*************************************-->
         <main id="tg-main" class="tg-main tg-haslayout">
             <!--************************************
-					News Grid Start
+					Authors Start
 			*************************************-->
-            <div class="tg-sectionspace tg-haslayout">
+            <div class="tg-authorsgrid">
                 <div class="container">
                     <div class="row">
-                        <div id="tg-twocolumns" class="tg-twocolumns">
-                            <div class="col-xs-12 col-sm-8 col-md-8 col-lg-9 pull-right">
-                                <div id="tg-content" class="tg-content">
-                                    <div class="tg-products">
-                                        <div class="tg-sectionhead">
-                                            <h2><span>People’s Choice</span>Bestselling Books</h2>
-                                        </div>
-                                        <div class="tg-featurebook alert" role="alert">
-                                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                                                <span aria-hidden="true">&times;</span>
-                                            </button>
-                                            <div class="tg-featureditm">
-                                                <div class="row">
-                                                    <div
-                                                        class="col-xs-12 col-sm-12 col-md-4 col-lg-4 hidden-sm hidden-xs">
-                                                        <figure><img src="../../public/images/img-04.png"
-                                                                alt="image description">
-                                                        </figure>
-                                                    </div>
-                                                    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
-                                                        <div class="tg-featureditmcontent">
-                                                            <div class="tg-themetagbox"><span
-                                                                    class="tg-themetag">featured</span></div>
-                                                            <div class="tg-booktitle">
-                                                                <h3><a href="javascript:void(0);">Things To Know About
-                                                                        Green Flat Design</a></h3>
-                                                            </div>
-                                                            <span class="tg-bookwriter">By: <a
-                                                                    href="javascript:void(0);">Farrah
-                                                                    Whisenhunt</a></span>
-                                                            <span class="tg-stars"><span></span></span>
-                                                            <div class="tg-priceandbtn">
-                                                                <span class="tg-bookprice">
-                                                                    <ins>$23.18</ins>
-                                                                    <del>$30.20</del>
-                                                                </span>
-                                                                <a class="tg-btn tg-btnstyletwo tg-active"
-                                                                    href="javascript:void(0);">
-                                                                    <i class="fa fa-shopping-basket"></i>
-                                                                    <em>Add To Basket</em>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="tg-productgrid">
-                                            <div class="tg-refinesearch">
-                                                <span>showing 1 to 8 of 20 total</span>
-                                                <form class="tg-formtheme tg-formsortshoitems">
-                                                    <fieldset>
-                                                        <div class="form-group">
-                                                            <label>sort by:</label>
-                                                            <span class="tg-select">
-                                                                <select>
-                                                                    <option>name</option>
-                                                                    <option>name</option>
-                                                                    <option>name</option>
-                                                                </select>
-                                                            </span>
-                                                        </div>
-                                                        <div class="form-group">
-                                                            <label>show:</label>
-                                                            <span class="tg-select">
-                                                                <select>
-                                                                    <option>8</option>
-                                                                    <option>16</option>
-                                                                    <option>20</option>
-                                                                </select>
-                                                            </span>
-                                                        </div>
-                                                    </fieldset>
-                                                </form>
-                                            </div>
-
-                                            <div v-for="book in books" class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
-                                                <div class="tg-postbook">
-                                                    <figure class="tg-featureimg">
-                                                        <div class="tg-bookimg">
-                                                            <div class="tg-frontcover"><img :src="book.cover_image"
-                                                                    alt="image description"></div>
-                                                            <div class="tg-backcover"><img :src="book.cover_image"
-                                                                    alt="image description"></div>
-                                                        </div>
-                                                        <a class="tg-btnaddtowishlist" :href="`book-detail/${book.id}`">
-                                                            <i class="icon-heart"></i>
-                                                            <span>View Details</span>
-                                                        </a>
-                                                    </figure>
-                                                    <div class="tg-postbookcontent">
-                                                        <ul class="tg-bookscategories">
-                                                            <li><a href="javascript:void(0);">Adventure</a></li>
-                                                            <li><a href="javascript:void(0);">Fun</a></li>
-                                                        </ul>
-                                                        <div class="tg-themetagbox"><span
-                                                                class="tg-themetag">sale</span></div>
-                                                        <div class="tg-booktitle">
-                                                            <h3 style="overflow: hidden; height: 38px;"><a
-                                                                    href="javascript:void(0);">{{ book.title }}</a></h3>
-                                                        </div>
-                                                        <span class="tg-bookwriter">By: <a
-                                                                href="javascript:void(0);">Angela Gunning</a></span>
-                                                        <span class="tg-stars"><span></span></span>
-                                                        <span class="tg-bookprice">
-                                                            <ins>$25.18</ins>
-                                                        </span>
-                                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
-                                                            <i class="fa fa-shopping-basket"></i>
-                                                            <em>Add To Basket</em>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                        <div class="tg-authors">
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <div class="tg-sectionhead">
+                                    <h2><span>Strong Minds Behind Us</span>Most Popular Authors</h2>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-03.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3 pull-left">
-                                <aside id="tg-sidebar" class="tg-sidebar">
-                                    <div class="tg-widget tg-widgetsearch">
-                                        <form class="tg-formtheme tg-formsearch">
-                                            <div class="form-group">
-                                                <button type="submit"><i class="icon-magnifier"></i></button>
-                                                <input type="search" name="search" class="form-group"
-                                                    placeholder="Search by title, author, key...">
-                                            </div>
-                                        </form>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-04.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
                                     </div>
-                                    <div class="tg-widget tg-catagories">
-                                        <div class="tg-widgettitle">
-                                            <h3>Categories</h3>
-                                        </div>
-                                        <div class="tg-widgetcontent">
-                                            <ul>
-                                                <li><a href="javascript:void(0);"><span>Art &amp;
-                                                            Photography</span><em>28245</em></a></li>
-                                                <li><a
-                                                        href="javascript:void(0);"><span>Biography</span><em>4856</em></a>
-                                                </li>
-                                                <li><a href="javascript:void(0);"><span>Children’s
-                                                            Book</span><em>8654</em></a></li>
-                                                <li><a href="javascript:void(0);"><span>Craft &amp;
-                                                            Hobbies</span><em>6247</em></a></li>
-                                                <li><a href="javascript:void(0);"><span>Crime &amp;
-                                                            Thriller</span><em>888654</em></a></li>
-                                                <li><a href="javascript:void(0);"><span>Fantasy &amp;
-                                                            Horror</span><em>873144</em></a></li>
-                                                <li><a href="javascript:void(0);"><span>Fiction</span><em>18465</em></a>
-                                                </li>
-                                                <li><a href="javascript:void(0);"><span>Fod &amp;
-                                                            Drink</span><em>3148</em></a></li>
-                                                <li><a href="javascript:void(0);"><span>Graphic, Anime &amp;
-                                                            Manga</span><em>77531</em></a></li>
-                                                <li><a href="javascript:void(0);"><span>Science
-                                                            Fiction</span><em>9247</em></a></li>
-                                                <li><a href="javascript:void(0);"><span>View All</span></a></li>
-                                            </ul>
-                                        </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-05.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
                                     </div>
-                                    <div class="tg-widget tg-widgettrending">
-                                        <div class="tg-widgettitle">
-                                            <h3>Trending Products</h3>
-                                        </div>
-                                        <div class="tg-widgetcontent">
-                                            <ul>
-                                                <li>
-                                                    <article class="tg-post">
-                                                        <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/products/img-04.jpg"
-                                                                    alt="image description"></a></figure>
-                                                        <div class="tg-postcontent">
-                                                            <div class="tg-posttitle">
-                                                                <h3><a href="javascript:void(0);">Where The Wild Things
-                                                                        Are</a></h3>
-                                                            </div>
-                                                            <span class="tg-bookwriter">By: <a
-                                                                    href="javascript:void(0);">Kathrine
-                                                                    Culbertson</a></span>
-                                                        </div>
-                                                    </article>
-                                                </li>
-                                                <li>
-                                                    <article class="tg-post">
-                                                        <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/products/img-05.jpg"
-                                                                    alt="image description"></a></figure>
-                                                        <div class="tg-postcontent">
-                                                            <div class="tg-posttitle">
-                                                                <h3><a href="javascript:void(0);">Where The Wild Things
-                                                                        Are</a></h3>
-                                                            </div>
-                                                            <span class="tg-bookwriter">By: <a
-                                                                    href="javascript:void(0);">Kathrine
-                                                                    Culbertson</a></span>
-                                                        </div>
-                                                    </article>
-                                                </li>
-                                                <li>
-                                                    <article class="tg-post">
-                                                        <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/products/img-06.jpg"
-                                                                    alt="image description"></a></figure>
-                                                        <div class="tg-postcontent">
-                                                            <div class="tg-posttitle">
-                                                                <h3><a href="javascript:void(0);">Where The Wild Things
-                                                                        Are</a></h3>
-                                                            </div>
-                                                            <span class="tg-bookwriter">By: <a
-                                                                    href="javascript:void(0);">Kathrine
-                                                                    Culbertson</a></span>
-                                                        </div>
-                                                    </article>
-                                                </li>
-                                                <li>
-                                                    <article class="tg-post">
-                                                        <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/products/img-07.jpg"
-                                                                    alt="image description"></a></figure>
-                                                        <div class="tg-postcontent">
-                                                            <div class="tg-posttitle">
-                                                                <h3><a href="javascript:void(0);">Where The Wild Things
-                                                                        Are</a></h3>
-                                                            </div>
-                                                            <span class="tg-bookwriter">By: <a
-                                                                    href="javascript:void(0);">Kathrine
-                                                                    Culbertson</a></span>
-                                                        </div>
-                                                    </article>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-06.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
                                     </div>
-                                    <div class="tg-widget tg-widgetinstagram">
-                                        <div class="tg-widgettitle">
-                                            <h3>Instagram</h3>
-                                        </div>
-                                        <div class="tg-widgetcontent">
-                                            <ul>
-                                                <li>
-                                                    <figure>
-                                                        <img src="../../public/images/instagram/img-01.jpg"
-                                                            alt="image description">
-                                                        <figcaption><a href="javascript:void(0);"><i
-                                                                    class="icon-heart"></i><em>50,134</em></a>
-                                                        </figcaption>
-                                                    </figure>
-                                                </li>
-                                                <li>
-                                                    <figure>
-                                                        <img src="../../public/images/instagram/img-02.jpg"
-                                                            alt="image description">
-                                                        <figcaption><a href="javascript:void(0);"><i
-                                                                    class="icon-heart"></i><em>50,134</em></a>
-                                                        </figcaption>
-                                                    </figure>
-                                                </li>
-                                                <li>
-                                                    <figure>
-                                                        <img src="../../public/images/instagram/img-03.jpg"
-                                                            alt="image description">
-                                                        <figcaption><a href="javascript:void(0);"><i
-                                                                    class="icon-heart"></i><em>50,134</em></a>
-                                                        </figcaption>
-                                                    </figure>
-                                                </li>
-                                                <li>
-                                                    <figure>
-                                                        <img src="../../public/images/instagram/img-04.jpg"
-                                                            alt="image description">
-                                                        <figcaption><a href="javascript:void(0);"><i
-                                                                    class="icon-heart"></i><em>50,134</em></a>
-                                                        </figcaption>
-                                                    </figure>
-                                                </li>
-                                                <li>
-                                                    <figure>
-                                                        <img src="../../public/images/instagram/img-05.jpg"
-                                                            alt="image description">
-                                                        <figcaption><a href="javascript:void(0);"><i
-                                                                    class="icon-heart"></i><em>50,134</em></a>
-                                                        </figcaption>
-                                                    </figure>
-                                                </li>
-                                                <li>
-                                                    <figure>
-                                                        <img src="../../public/images/instagram/img-06.jpg"
-                                                            alt="image description">
-                                                        <figcaption><a href="javascript:void(0);"><i
-                                                                    class="icon-heart"></i><em>50,134</em></a>
-                                                        </figcaption>
-                                                    </figure>
-                                                </li>
-                                                <li>
-                                                    <figure>
-                                                        <img src="../../public/images/instagram/img-07.jpg"
-                                                            alt="image description">
-                                                        <figcaption><a href="javascript:void(0);"><i
-                                                                    class="icon-heart"></i><em>50,134</em></a>
-                                                        </figcaption>
-                                                    </figure>
-                                                </li>
-                                                <li>
-                                                    <figure>
-                                                        <img src="../../public/images/instagram/img-08.jpg"
-                                                            alt="image description">
-                                                        <figcaption><a href="javascript:void(0);"><i
-                                                                    class="icon-heart"></i><em>50,134</em></a>
-                                                        </figcaption>
-                                                    </figure>
-                                                </li>
-                                                <li>
-                                                    <figure>
-                                                        <img src="../../public/images/instagram/img-09.jpg"
-                                                            alt="image description">
-                                                        <figcaption><a href="javascript:void(0);"><i
-                                                                    class="icon-heart"></i><em>50,134</em></a>
-                                                        </figcaption>
-                                                    </figure>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-07.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
                                     </div>
-                                    <div class="tg-widget tg-widgetblogers">
-                                        <div class="tg-widgettitle">
-                                            <h3>Top Bloogers</h3>
-                                        </div>
-                                        <div class="tg-widgetcontent">
-                                            <ul>
-                                                <li>
-                                                    <div class="tg-author">
-                                                        <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/author/imag-03.jpg"
-                                                                    alt="image description"></a></figure>
-                                                        <div class="tg-authorcontent">
-                                                            <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
-                                                            <span>21,658 Published Books</span>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="tg-author">
-                                                        <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/author/imag-04.jpg"
-                                                                    alt="image description"></a></figure>
-                                                        <div class="tg-authorcontent">
-                                                            <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
-                                                            <span>21,658 Published Books</span>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="tg-author">
-                                                        <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/author/imag-05.jpg"
-                                                                    alt="image description"></a></figure>
-                                                        <div class="tg-authorcontent">
-                                                            <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
-                                                            <span>21,658 Published Books</span>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="tg-author">
-                                                        <figure><a href="javascript:void(0);"><img
-                                                                    src="../../public/images/author/imag-06.jpg"
-                                                                    alt="image description"></a></figure>
-                                                        <div class="tg-authorcontent">
-                                                            <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
-                                                            <span>21,658 Published Books</span>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-08.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
                                     </div>
-                                </aside>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-20.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-15.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-14.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-15.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-16.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-17.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-18.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-19.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-20.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-21.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-22.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+                                <div class="tg-author">
+                                    <figure><a href="javascript:void(0);"><img src="/images/author/imag-23.jpg"
+                                                alt="image description"></a></figure>
+                                    <div class="tg-authorcontent">
+                                        <h2><a href="javascript:void(0);">Jude Morphew</a></h2>
+                                        <span>21,658 Published Books</span>
+                                        <ul class="tg-socialicons">
+                                            <li class="tg-facebook"><a href="javascript:void(0);"><i
+                                                        class="fa fa-facebook"></i></a></li>
+                                            <li class="tg-twitter"><a href="javascript:void(0);"><i
+                                                        class="fa fa-twitter"></i></a></li>
+                                            <li class="tg-linkedin"><a href="javascript:void(0);"><i
+                                                        class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <!--************************************
-					News Grid End
+					Authors End
+			*************************************-->
+            <!--************************************
+					Testimonials Start
+			*************************************-->
+            <section class="tg-parallax tg-bgtestimonials tg-haslayout" data-z-index="-100" data-appear-top-offset="600"
+                data-parallax="scroll" data-image-src="/images/parallax/bgparallax-05.jpg">
+                <div class="tg-sectionspace tg-haslayout">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-lg-push-2">
+                                <div id="tg-testimonialsslider"
+                                    class="tg-testimonialsslider tg-testimonials owl-carousel">
+                                    <div class="item tg-testimonial">
+                                        <figure><img src="/images/author/imag-02.jpg" alt="image description"></figure>
+                                        <blockquote><q>Consectetur adipisicing elit sed do eiusmod tempor incididunt ut
+                                                labore tolore magna aliqua enim ad minim veniam, quis nostrud
+                                                exercitation ullamcoiars nisi ut aliquip commodo.</q></blockquote>
+                                        <div class="tg-testimonialauthor">
+                                            <h3>Holli Fenstermacher</h3>
+                                            <span>Manager @ CIFP</span>
+                                        </div>
+                                    </div>
+                                    <div class="item tg-testimonial">
+                                        <figure><img src="/images/author/imag-02.jpg" alt="image description"></figure>
+                                        <blockquote><q>Consectetur adipisicing elit sed do eiusmod tempor incididunt ut
+                                                labore tolore magna aliqua enim ad minim veniam, quis nostrud
+                                                exercitation ullamcoiars nisi ut aliquip commodo.</q></blockquote>
+                                        <div class="tg-testimonialauthor">
+                                            <h3>Holli Fenstermacher</h3>
+                                            <span>Manager @ CIFP</span>
+                                        </div>
+                                    </div>
+                                    <div class="item tg-testimonial">
+                                        <figure><img src="/images/author/imag-02.jpg" alt="image description"></figure>
+                                        <blockquote><q>Consectetur adipisicing elit sed do eiusmod tempor incididunt ut
+                                                labore tolore magna aliqua enim ad minim veniam, quis nostrud
+                                                exercitation ullamcoiars nisi ut aliquip commodo.</q></blockquote>
+                                        <div class="tg-testimonialauthor">
+                                            <h3>Holli Fenstermacher</h3>
+                                            <span>Manager @ CIFP</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--************************************
+					Testimonials End
+			*************************************-->
+            <!--************************************
+					Picked By Author Start
+			*************************************-->
+            <section class="tg-sectionspace tg-haslayout">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <div class="tg-sectionhead">
+                                <h2><span>Some Great Books</span>Picked By Authors</h2>
+                                <a class="tg-btn" href="javascript:void(0);">View All</a>
+                            </div>
+                        </div>
+                        <div id="tg-pickedbyauthorslider"
+                            class="tg-pickedbyauthor tg-pickedbyauthorslider owl-carousel">
+                            <div class="item">
+                                <div class="tg-postbook">
+                                    <figure class="tg-featureimg">
+                                        <div class="tg-bookimg">
+                                            <div class="tg-frontcover"><img src="/images/books/img-10.jpg"
+                                                    alt="image description"></div>
+                                        </div>
+                                        <div class="tg-hovercontent">
+                                            <div class="tg-description">
+                                                <p>Consectetur adipisicing elit sed do eiusmod tempor incididunt labore
+                                                    toloregna aliqua enim adia minim veniam, quis nostrud.</p>
+                                            </div>
+                                            <strong class="tg-bookpage">Book Pages: 206</strong>
+                                            <strong class="tg-bookcategory">Category: Adventure, Fun</strong>
+                                            <strong class="tg-bookprice">Price: $23.18</strong>
+                                            <div class="tg-ratingbox"><span class="tg-stars"><span></span></span></div>
+                                        </div>
+                                    </figure>
+                                    <div class="tg-postbookcontent">
+                                        <div class="tg-booktitle">
+                                            <h3><a href="javascript:void(0);">Seven Minutes In Heaven</a></h3>
+                                        </div>
+                                        <span class="tg-bookwriter">By: <a href="javascript:void(0);">Sunshine
+                                                Orlando</a></span>
+                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                            <i class="fa fa-shopping-basket"></i>
+                                            <em>Add To Basket</em>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="tg-postbook">
+                                    <figure class="tg-featureimg">
+                                        <div class="tg-bookimg">
+                                            <div class="tg-frontcover"><img src="/images/books/img-11.jpg"
+                                                    alt="image description"></div>
+                                        </div>
+                                        <div class="tg-hovercontent">
+                                            <div class="tg-description">
+                                                <p>Consectetur adipisicing elit sed do eiusmod tempor incididunt labore
+                                                    toloregna aliqua enim adia minim veniam, quis nostrud.</p>
+                                            </div>
+                                            <strong class="tg-bookpage">Book Pages: 206</strong>
+                                            <strong class="tg-bookcategory">Category: Adventure, Fun</strong>
+                                            <strong class="tg-bookprice">Price: $23.18</strong>
+                                            <div class="tg-ratingbox"><span class="tg-stars"><span></span></span></div>
+                                        </div>
+                                    </figure>
+                                    <div class="tg-postbookcontent">
+                                        <div class="tg-booktitle">
+                                            <h3><a href="javascript:void(0);">Slow And Steady Wins The Race</a></h3>
+                                        </div>
+                                        <span class="tg-bookwriter">By: <a href="javascript:void(0);">Drusilla
+                                                Glandon</a></span>
+                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                            <i class="fa fa-shopping-basket"></i>
+                                            <em>Add To Basket</em>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="tg-postbook">
+                                    <figure class="tg-featureimg">
+                                        <div class="tg-bookimg">
+                                            <div class="tg-frontcover"><img src="/images/books/img-12.jpg"
+                                                    alt="image description"></div>
+                                        </div>
+                                        <div class="tg-hovercontent">
+                                            <div class="tg-description">
+                                                <p>Consectetur adipisicing elit sed do eiusmod tempor incididunt labore
+                                                    toloregna aliqua enim adia minim veniam, quis nostrud.</p>
+                                            </div>
+                                            <strong class="tg-bookpage">Book Pages: 206</strong>
+                                            <strong class="tg-bookcategory">Category: Adventure, Fun</strong>
+                                            <strong class="tg-bookprice">Price: $23.18</strong>
+                                            <div class="tg-ratingbox"><span class="tg-stars"><span></span></span></div>
+                                        </div>
+                                    </figure>
+                                    <div class="tg-postbookcontent">
+                                        <div class="tg-booktitle">
+                                            <h3><a href="javascript:void(0);">There’s No Time Like The Present</a></h3>
+                                        </div>
+                                        <span class="tg-bookwriter">By: <a href="javascript:void(0);">Patrick
+                                                Seller</a></span>
+                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                            <i class="fa fa-shopping-basket"></i>
+                                            <em>Add To Basket</em>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="tg-postbook">
+                                    <figure class="tg-featureimg">
+                                        <div class="tg-bookimg">
+                                            <div class="tg-frontcover"><img src="/images/books/img-10.jpg"
+                                                    alt="image description"></div>
+                                        </div>
+                                        <div class="tg-hovercontent">
+                                            <div class="tg-description">
+                                                <p>Consectetur adipisicing elit sed do eiusmod tempor incididunt labore
+                                                    toloregna aliqua enim adia minim veniam, quis nostrud.</p>
+                                            </div>
+                                            <strong class="tg-bookpage">Book Pages: 206</strong>
+                                            <strong class="tg-bookcategory">Category: Adventure, Fun</strong>
+                                            <strong class="tg-bookprice">Price: $23.18</strong>
+                                            <div class="tg-ratingbox"><span class="tg-stars"><span></span></span></div>
+                                        </div>
+                                    </figure>
+                                    <div class="tg-postbookcontent">
+                                        <div class="tg-booktitle">
+                                            <h3><a href="javascript:void(0);">Seven Minutes In Heaven</a></h3>
+                                        </div>
+                                        <span class="tg-bookwriter">By: <a href="javascript:void(0);">Sunshine
+                                                Orlando</a></span>
+                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                            <i class="fa fa-shopping-basket"></i>
+                                            <em>Add To Basket</em>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="tg-postbook">
+                                    <figure class="tg-featureimg">
+                                        <div class="tg-bookimg">
+                                            <div class="tg-frontcover"><img src="/images/books/img-11.jpg"
+                                                    alt="image description"></div>
+                                        </div>
+                                        <div class="tg-hovercontent">
+                                            <div class="tg-description">
+                                                <p>Consectetur adipisicing elit sed do eiusmod tempor incididunt labore
+                                                    toloregna aliqua enim adia minim veniam, quis nostrud.</p>
+                                            </div>
+                                            <strong class="tg-bookpage">Book Pages: 206</strong>
+                                            <strong class="tg-bookcategory">Category: Adventure, Fun</strong>
+                                            <strong class="tg-bookprice">Price: $23.18</strong>
+                                            <div class="tg-ratingbox"><span class="tg-stars"><span></span></span></div>
+                                        </div>
+                                    </figure>
+                                    <div class="tg-postbookcontent">
+                                        <div class="tg-booktitle">
+                                            <h3><a href="javascript:void(0);">Slow And Steady Wins The Race</a></h3>
+                                        </div>
+                                        <span class="tg-bookwriter">By: <a href="javascript:void(0);">Drusilla
+                                                Glandon</a></span>
+                                        <a class="tg-btn tg-btnstyletwo" href="javascript:void(0);">
+                                            <i class="fa fa-shopping-basket"></i>
+                                            <em>Add To Basket</em>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--************************************
+					Picked By Author End
 			*************************************-->
         </main>
         <!--************************************
@@ -1453,8 +1625,7 @@
                         <div class="tg-threecolumns">
                             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                                 <div class="tg-footercol">
-                                    <strong class="tg-logo"><a href="javascript:void(0);"><img
-                                                src="../../public/images/flogo.png"
+                                    <strong class="tg-logo"><a href="javascript:void(0);"><img src="/images/flogo.png"
                                                 alt="image description"></a></strong>
                                     <ul class="tg-contactinfo">
                                         <li>
@@ -1530,7 +1701,7 @@
                                         <ul>
                                             <li>
                                                 <figure><a href="javascript:void(0);"><img
-                                                            src="../../public/images/author/imag-09.jpg"
+                                                            src="/images/author/imag-09.jpg"
                                                             alt="image description"></a>
                                                 </figure>
                                                 <div class="tg-authornamebooks">
@@ -1540,7 +1711,7 @@
                                             </li>
                                             <li>
                                                 <figure><a href="javascript:void(0);"><img
-                                                            src="../../public/images/author/imag-10.jpg"
+                                                            src="/images/author/imag-10.jpg"
                                                             alt="image description"></a>
                                                 </figure>
                                                 <div class="tg-authornamebooks">
@@ -1550,7 +1721,7 @@
                                             </li>
                                             <li>
                                                 <figure><a href="javascript:void(0);"><img
-                                                            src="../../public/images/author/imag-11.jpg"
+                                                            src="/images/author/imag-11.jpg"
                                                             alt="image description"></a>
                                                 </figure>
                                                 <div class="tg-authornamebooks">
@@ -1591,7 +1762,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                            <span class="tg-paymenttype"><img src="../../public/images/paymenticon.png"
+                            <span class="tg-paymenttype"><img src="/images/paymenticon.png"
                                     alt="image description"></span>
                             <span class="tg-copyright">2017 All Rights Reserved By &copy; Book Library</span>
                         </div>
@@ -1603,33 +1774,7 @@
 				Footer End
 		*************************************-->
     </div>
-    <!--************************************
-			Wrapper End
-	*************************************-->
+
 </template>
-
 <script setup lang="ts">
-import book_service from '@/services/book_service';
-import { ref, onMounted } from 'vue';
-import type { Book } from '@/types';
-
-const books = ref(Array<Book>());
-onMounted(() => {
-    try {
-        books.value = book_service.getAllBook();
-    } catch (error) {
-        console.error('Failed to fetch books:', error);
-    }
-});
 </script>
-
-
-<style scoped>
-table {
-    width: 100%;
-    border-collapse: separate;
-    border: 1px solid #ddd;
-
-
-}
-</style>
